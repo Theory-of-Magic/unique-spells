@@ -178,8 +178,9 @@ def check(included,names_return = False):
         return(fails)
 
 
-print("Test with values 4-18 +1+3")
-stuff = [4,5,6,7,8,9,10,11,12,13,14,15,16,17,18]
+
+#these are the other fields to be tested
+stuff = [4,5,6,7,8,9,10,11,12,13,14,15]
 results = []
 
 test = 0
@@ -187,7 +188,8 @@ for L in range(0,len(stuff)+1):
     #print(L)
     #R = []
     for subset in itertools.combinations(stuff,L):
-        subset = [1,3]+list(subset)
+        #1 and 3 always seem to matter so best add them as well as n,s,m
+        subset = [1,3]+list(subset)+[16,17,18]
         if len(subset) > 1:
             test+=1
             r = check(subset)
