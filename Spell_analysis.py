@@ -51,6 +51,9 @@ ability_set = list(set(ability_check))
 saving_throw_set = list(set(saving_throw))
 dset = list(set(dtype))
 range_set = list(set(range_))
+#print(range_set)
+#input()
+
 names_coord = []
 level_coord = []
 school_coord = []
@@ -150,18 +153,22 @@ def check(included,names_return = False):
         Big_zeros.append(zeros)
 
     fails = 0
+
+    zero_names = []
+    zero_level = []
     for bz in Big_zeros:
         #print(bz)
         if len(bz) >1:
-            zero_names = []
-            zero_level = []
+            
+            small_zero_names = []
+            small_zero_level =[]
             for z in bz:
                 if names[z] not in zero_names:
-                    
-                    zero_names.append(names[z])
-                    zero_level.append(level[z])
-                    
-            if len(zero_names) != 1:
+                    #print(bz)
+                    small_zero_names.append(names[z])
+                    small_zero_level.append(level[z])
+            
+            if len(small_zero_names) != 1:
                 #print(zero_names)
                 for j in np.arange(len(zero_names)):
                     fails+= 1
@@ -171,16 +178,17 @@ def check(included,names_return = False):
                     #print(zn)
                 
                 #print("---------------")
-    
+            zero_names.append(small_zero_names)
+            zero_level.append(small_zero_level)
     if names_return == True:
-        return(fails,zero_names)
+        return(fails,zero_names,zero_level)
     else:
         return(fails)
 
 
 
-#these are the other fields to be tested
-stuff = [4,5,6,7,8,9,10,11,12,13,14,15]
+"""#these are the other fields to be tested
+stuff = [3,4,5,6,7,8,9,10,11,12,13,14,15]
 results = []
 
 test = 0
@@ -189,7 +197,7 @@ for L in range(0,len(stuff)+1):
     #R = []
     for subset in itertools.combinations(stuff,L):
         #1 and 3 always seem to matter so best add them as well as n,s,m
-        subset = [1,3]+list(subset)+[16,17,18]
+        subset = [1]+list(subset)+[16,17,18]
         if len(subset) > 1:
             test+=1
             r = check(subset)
@@ -211,10 +219,14 @@ for L in range(0,len(stuff)+1):
                 #plt.yscale('log')
                 #plt.savefig("progress2.png")
                 
-                #plt.clf()"""
-"""trials = [[1, 3,6, 10, 15, 19,20]]
+                #plt.clf()
+        elif len(subset) >= 12:
+            pass"""
+
+
+trials = [[1, 3,16,17,18,10,15]]
 for t in trials:
     print(t,check(t,True))
-for r in results:
-    if r[0] <10:
-        print(r)"""
+#for r in results:
+#    if r[0] <10:
+#        print(r)
