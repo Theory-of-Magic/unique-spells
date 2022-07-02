@@ -1,0 +1,658 @@
+name,level,school,range,concentration,verbal,somatic,material,material_consumed,material_cp_cost,area_types,ability_checks,saving_throws,cantrip_scaling,dice,damage,sigma,a
+Acid Splash,0,CONJURATION,Point (60 feet),N,Y,Y,N,N,0,ST/MT,,dexterity,1,1d6+0,acid,1.707825128,0.817588381
+Acid Splash,0,CONJURATION,Point (60 feet),N,Y,Y,N,N,0,ST/MT,,dexterity,5,2d6+0,acid,2.415229458,1.156244577
+Acid Splash,0,CONJURATION,Point (60 feet),N,Y,Y,N,N,0,ST/MT,,dexterity,11,3d6+0,acid,2.958039892,1.416104616
+Acid Splash,0,CONJURATION,Point (60 feet),N,Y,Y,N,N,0,ST/MT,,dexterity,17,4d6+0,acid,3.415650255,1.635176762
+Alter Self,2,TRANSMUTATION,Self,Y,Y,Y,N,N,0,,,,0,1d6+0,bludgeoning,1.707825128,0.817588381
+Arms of Hadar,1,CONJURATION,10-feet radius,N,Y,Y,N,N,0,S,,strength,0,2d6+0,necrotic,2.415229458,1.156244577
+Arms of Hadar,1,CONJURATION,10-feet radius,N,Y,Y,N,N,0,S,,strength,2,3d6+0,necrotic,2.958039892,1.416104616
+Arms of Hadar,1,CONJURATION,10-feet radius,N,Y,Y,N,N,0,S,,strength,3,4d6+0,necrotic,3.415650255,1.635176762
+Arms of Hadar,1,CONJURATION,10-feet radius,N,Y,Y,N,N,0,S,,strength,4,5d6+0,necrotic,3.818813079,1.828183198
+Arms of Hadar,1,CONJURATION,10-feet radius,N,Y,Y,N,N,0,S,,strength,5,6d6+0,necrotic,4.183300133,2.002674353
+Arms of Hadar,1,CONJURATION,10-feet radius,N,Y,Y,N,N,0,S,,strength,6,7d6+0,necrotic,4.518480571,2.163135531
+Arms of Hadar,1,CONJURATION,10-feet radius,N,Y,Y,N,N,0,S,,strength,7,8d6+0,necrotic,4.830458915,2.312489154
+Arms of Hadar,1,CONJURATION,10-feet radius,N,Y,Y,N,N,0,S,,strength,8,9d6+0,necrotic,5.123475383,2.452765143
+Arms of Hadar,1,CONJURATION,10-feet radius,N,Y,Y,N,N,0,S,,strength,9,10d6+0,necrotic,5.400617249,2.585441473
+Banishing Smite,5,ABJURATION,Self,Y,Y,N,N,N,0,,,,0,5d10+0,force,6.422616289,1.708168792
+Bestow Curse,3,NECROMANCY,Touch,Y,Y,Y,N,N,0,ST,,wisdom,0,1d8+0,necrotic,2.291287847,0.783507085
+Bigby's Hand,5,EVOCATION,Point (120 feet),Y,Y,Y,Y,N,0,,strength,,0,4d8+0,force,4.582575695,1.56701417
+Bigby's Hand,5,EVOCATION,Point (120 feet),Y,Y,Y,Y,N,0,,strength,,6,6d8+0,bludgeoning,5.61248608,1.919192568
+Bigby's Hand,5,EVOCATION,Point (120 feet),Y,Y,Y,Y,N,0,,strength,,7,8d8+0,bludgeoning,6.480740698,2.216092691
+Bigby's Hand,5,EVOCATION,Point (120 feet),Y,Y,Y,Y,N,0,,strength,,8,10d8+0,bludgeoning,7.245688373,2.477666951
+Bigby's Hand,5,EVOCATION,Point (120 feet),Y,Y,Y,Y,N,0,,strength,,9,12d8+0,bludgeoning,7.937253933,2.714148158
+Bigby's Hand,5,EVOCATION,Point (120 feet),Y,Y,Y,Y,N,0,,strength,,6,4d6+0,bludgeoning,3.415650255,1.635176762
+Bigby's Hand,5,EVOCATION,Point (120 feet),Y,Y,Y,Y,N,0,,strength,,7,6d6+0,bludgeoning,4.183300133,2.002674353
+Bigby's Hand,5,EVOCATION,Point (120 feet),Y,Y,Y,Y,N,0,,strength,,8,8d6+0,bludgeoning,4.830458915,2.312489154
+Bigby's Hand,5,EVOCATION,Point (120 feet),Y,Y,Y,Y,N,0,,strength,,9,10d6+0,bludgeoning,5.400617249,2.585441473
+Blade Barrier,6,EVOCATION,Point (90 feet),Y,Y,Y,N,N,0,W,,dexterity,0,6d10+0,slashing,7.03562364,1.871205159
+Blight,4,NECROMANCY,Point (30 feet),N,Y,Y,N,N,0,ST,,constitution,0,8d8+0,necrotic,6.480740698,2.216092691
+Blight,4,NECROMANCY,Point (30 feet),N,Y,Y,N,N,0,ST,,constitution,5,9d8+0,necrotic,6.873863542,2.350521254
+Blight,4,NECROMANCY,Point (30 feet),N,Y,Y,N,N,0,ST,,constitution,6,10d8+0,necrotic,7.245688373,2.477666951
+Blight,4,NECROMANCY,Point (30 feet),N,Y,Y,N,N,0,ST,,constitution,7,11d8+0,necrotic,7.599342077,2.598599021
+Blight,4,NECROMANCY,Point (30 feet),N,Y,Y,N,N,0,ST,,constitution,8,12d8+0,necrotic,7.937253933,2.714148158
+Blight,4,NECROMANCY,Point (30 feet),N,Y,Y,N,N,0,ST,,constitution,9,13d8+0,necrotic,8.261355821,2.824974969
+Blinding Smite,3,EVOCATION,Self,Y,Y,N,N,N,0,,,constitution,0,3d8+0,radiant,3.968626967,1.357074079
+Branding Smite,2,EVOCATION,Self,Y,Y,N,N,N,0,,,,0,2d6+0,radiant,2.415229458,1.156244577
+Branding Smite,2,EVOCATION,Self,Y,Y,N,N,N,0,,,,3,3d6+0,radiant,2.958039892,1.416104616
+Branding Smite,2,EVOCATION,Self,Y,Y,N,N,N,0,,,,4,4d6+0,radiant,3.415650255,1.635176762
+Branding Smite,2,EVOCATION,Self,Y,Y,N,N,N,0,,,,5,5d6+0,radiant,3.818813079,1.828183198
+Branding Smite,2,EVOCATION,Self,Y,Y,N,N,N,0,,,,6,6d6+0,radiant,4.183300133,2.002674353
+Branding Smite,2,EVOCATION,Self,Y,Y,N,N,N,0,,,,7,7d6+0,radiant,4.518480571,2.163135531
+Branding Smite,2,EVOCATION,Self,Y,Y,N,N,N,0,,,,8,8d6+0,radiant,4.830458915,2.312489154
+Branding Smite,2,EVOCATION,Self,Y,Y,N,N,N,0,,,,9,9d6+0,radiant,5.123475383,2.452765143
+Burning Hands,1,EVOCATION,15-feet cone,N,Y,Y,N,N,0,N,,dexterity,0,3d6+0,fire,2.958039892,1.416104616
+Burning Hands,1,EVOCATION,15-feet cone,N,Y,Y,N,N,0,N,,dexterity,2,4d6+0,fire,3.415650255,1.635176762
+Burning Hands,1,EVOCATION,15-feet cone,N,Y,Y,N,N,0,N,,dexterity,3,5d6+0,fire,3.818813079,1.828183198
+Burning Hands,1,EVOCATION,15-feet cone,N,Y,Y,N,N,0,N,,dexterity,4,6d6+0,fire,4.183300133,2.002674353
+Burning Hands,1,EVOCATION,15-feet cone,N,Y,Y,N,N,0,N,,dexterity,5,7d6+0,fire,4.518480571,2.163135531
+Burning Hands,1,EVOCATION,15-feet cone,N,Y,Y,N,N,0,N,,dexterity,6,8d6+0,fire,4.830458915,2.312489154
+Burning Hands,1,EVOCATION,15-feet cone,N,Y,Y,N,N,0,N,,dexterity,7,9d6+0,fire,5.123475383,2.452765143
+Burning Hands,1,EVOCATION,15-feet cone,N,Y,Y,N,N,0,N,,dexterity,8,10d6+0,fire,5.400617249,2.585441473
+Burning Hands,1,EVOCATION,15-feet cone,N,Y,Y,N,N,0,N,,dexterity,9,11d6+0,fire,5.664215156,2.711633893
+Call Lightning,3,CONJURATION,Point (120 feet),Y,Y,Y,N,N,0,S/Y,,dexterity,0,3d10+0,lightning,4.974937186,1.323141857
+Chain Lightning,6,EVOCATION,Point (150 feet),N,Y,Y,Y,N,0,ST/MT,,dexterity,0,10d8+0,lightning,7.245688373,2.477666951
+Chill Touch,0,NECROMANCY,Point (120 feet),N,Y,Y,N,N,0,ST,,,1,1d8+0,necrotic,2.291287847,0.783507085
+Chill Touch,0,NECROMANCY,Point (120 feet),N,Y,Y,N,N,0,ST,,,5,2d8+0,necrotic,3.240370349,1.108046346
+Chill Touch,0,NECROMANCY,Point (120 feet),N,Y,Y,N,N,0,ST,,,11,3d8+0,necrotic,3.968626967,1.357074079
+Chill Touch,0,NECROMANCY,Point (120 feet),N,Y,Y,N,N,0,ST,,,17,4d8+0,necrotic,4.582575695,1.56701417
+Chromatic Orb,1,EVOCATION,Point (90 feet),N,Y,Y,Y,N,5000,ST,,,0,3d8+0,damage,3.968626967,1.357074079
+Chromatic Orb,1,EVOCATION,Point (90 feet),N,Y,Y,Y,N,5000,ST,,,2,4d8+0,acid,4.582575695,1.56701417
+Chromatic Orb,1,EVOCATION,Point (90 feet),N,Y,Y,Y,N,5000,ST,,,3,5d8+0,acid,5.123475383,1.751975102
+Chromatic Orb,1,EVOCATION,Point (90 feet),N,Y,Y,Y,N,5000,ST,,,4,6d8+0,acid,5.61248608,1.919192568
+Chromatic Orb,1,EVOCATION,Point (90 feet),N,Y,Y,Y,N,5000,ST,,,5,7d8+0,acid,6.062177826,2.072964897
+Chromatic Orb,1,EVOCATION,Point (90 feet),N,Y,Y,Y,N,5000,ST,,,6,8d8+0,acid,6.480740698,2.216092691
+Chromatic Orb,1,EVOCATION,Point (90 feet),N,Y,Y,Y,N,5000,ST,,,7,9d8+0,acid,6.873863542,2.350521254
+Chromatic Orb,1,EVOCATION,Point (90 feet),N,Y,Y,Y,N,5000,ST,,,8,10d8+0,acid,7.245688373,2.477666951
+Chromatic Orb,1,EVOCATION,Point (90 feet),N,Y,Y,Y,N,5000,ST,,,9,11d8+0,acid,7.599342077,2.598599021
+Circle of Death,6,NECROMANCY,Point (150 feet),N,Y,Y,Y,N,50000,S,,constitution,0,8d6+0,necrotic,4.830458915,2.312489154
+Circle of Death,6,NECROMANCY,Point (150 feet),N,Y,Y,Y,N,50000,S,,constitution,7,10d6+0,necrotic,5.400617249,2.585441473
+Circle of Death,6,NECROMANCY,Point (150 feet),N,Y,Y,Y,N,50000,S,,constitution,8,12d6+0,necrotic,5.916079783,2.832209232
+Circle of Death,6,NECROMANCY,Point (150 feet),N,Y,Y,Y,N,50000,S,,constitution,9,14d6+0,necrotic,6.390096504,3.059135606
+Cloud of Daggers,2,CONJURATION,Point (60 feet),Y,Y,Y,Y,N,0,C,,,0,4d4+0,slashing,2.236067977,1.784124116
+Cloud of Daggers,2,CONJURATION,Point (60 feet),Y,Y,Y,Y,N,0,C,,,3,6d4+0,slashing,2.738612788,2.185096861
+Cloud of Daggers,2,CONJURATION,Point (60 feet),Y,Y,Y,Y,N,0,C,,,4,8d4+0,slashing,3.16227766,2.523132522
+Cloud of Daggers,2,CONJURATION,Point (60 feet),Y,Y,Y,Y,N,0,C,,,5,10d4+0,slashing,3.535533906,2.820947918
+Cloud of Daggers,2,CONJURATION,Point (60 feet),Y,Y,Y,Y,N,0,C,,,6,12d4+0,slashing,3.872983346,3.090193616
+Cloud of Daggers,2,CONJURATION,Point (60 feet),Y,Y,Y,Y,N,0,C,,,7,14d4+0,slashing,4.183300133,3.337790589
+Cloud of Daggers,2,CONJURATION,Point (60 feet),Y,Y,Y,Y,N,0,C,,,8,16d4+0,slashing,4.472135955,3.568248232
+Cloud of Daggers,2,CONJURATION,Point (60 feet),Y,Y,Y,Y,N,0,C,,,9,18d4+0,slashing,4.74341649,3.784698783
+Cloudkill,5,CONJURATION,Point (120 feet),Y,Y,Y,N,N,0,S,,constitution,0,5d8+0,poison,5.123475383,1.751975102
+Cloudkill,5,CONJURATION,Point (120 feet),Y,Y,Y,N,N,0,S,,constitution,6,6d8+0,poison,5.61248608,1.919192568
+Cloudkill,5,CONJURATION,Point (120 feet),Y,Y,Y,N,N,0,S,,constitution,7,7d8+0,poison,6.062177826,2.072964897
+Cloudkill,5,CONJURATION,Point (120 feet),Y,Y,Y,N,N,0,S,,constitution,8,8d8+0,poison,6.480740698,2.216092691
+Cloudkill,5,CONJURATION,Point (120 feet),Y,Y,Y,N,N,0,S,,constitution,9,9d8+0,poison,6.873863542,2.350521254
+Cone of Cold,5,EVOCATION,60-feet cone,N,Y,Y,Y,N,0,N,,constitution,0,8d8+0,cold,6.480740698,2.216092691
+Cone of Cold,5,EVOCATION,60-feet cone,N,Y,Y,Y,N,0,N,,constitution,6,9d8+0,cold,6.873863542,2.350521254
+Cone of Cold,5,EVOCATION,60-feet cone,N,Y,Y,Y,N,0,N,,constitution,7,10d8+0,cold,7.245688373,2.477666951
+Cone of Cold,5,EVOCATION,60-feet cone,N,Y,Y,Y,N,0,N,,constitution,8,11d8+0,cold,7.599342077,2.598599021
+Cone of Cold,5,EVOCATION,60-feet cone,N,Y,Y,Y,N,0,N,,constitution,9,12d8+0,cold,7.937253933,2.714148158
+Contact Other Plane,5,DIVINATION,Self,N,Y,N,N,N,0,,,intelligence,0,6d6+0,psychic,4.183300133,2.002674353
+Control Water,4,TRANSMUTATION,Point (300 feet),Y,Y,Y,Y,N,0,N,strength,strength,0,2d8+0,bludgeoning,3.240370349,1.108046346
+Control Water,4,TRANSMUTATION,Point (300 feet),Y,Y,Y,Y,N,0,N,strength,strength,0,2d8+0,bludgeoning,3.240370349,1.108046346
+Cordon of Arrows,2,TRANSMUTATION,Point (5 feet),N,Y,Y,Y,N,0,S,,dexterity,0,1d6+0,piercing,1.707825128,0.817588381
+Crusader's Mantle,3,EVOCATION,30-feet radius,Y,Y,N,N,N,0,S,,,0,1d4+0,radiant,1.118033989,0.892062058
+Delayed Blast Fireball,7,EVOCATION,Point (150 feet),Y,Y,Y,Y,N,0,S,,dexterity,8,13d6+0,fire,6.157651067,2.94785683
+Delayed Blast Fireball,7,EVOCATION,Point (150 feet),Y,Y,Y,Y,N,0,S,,dexterity,9,14d6+0,fire,6.390096504,3.059135606
+Destructive Wave,5,EVOCATION,30-feet radius,N,Y,N,N,N,0,MT/S,,constitution,0,5d6+0,thunder,3.818813079,1.828183198
+Destructive Wave,5,EVOCATION,30-feet radius,N,Y,N,N,N,0,MT/S,,constitution,0,5d6+0,radiant,3.818813079,1.828183198
+Dimension Door,4,CONJURATION,Point (500 feet),N,Y,N,N,N,0,,,,0,4d6+0,force,3.415650255,1.635176762
+Disintegrate,6,TRANSMUTATION,Point (60 feet),N,Y,Y,Y,N,0,ST,,dexterity,0,10d6+40,force,5.400617249,5.540231728
+Dissonant Whispers,1,ENCHANTMENT,Point (60 feet),N,Y,N,N,N,0,ST,,wisdom,0,3d6+0,psychic,2.958039892,1.416104616
+Dissonant Whispers,1,ENCHANTMENT,Point (60 feet),N,Y,N,N,N,0,ST,,wisdom,2,4d6+0,psychic,3.415650255,1.635176762
+Dissonant Whispers,1,ENCHANTMENT,Point (60 feet),N,Y,N,N,N,0,ST,,wisdom,3,5d6+0,psychic,3.818813079,1.828183198
+Dissonant Whispers,1,ENCHANTMENT,Point (60 feet),N,Y,N,N,N,0,ST,,wisdom,4,6d6+0,psychic,4.183300133,2.002674353
+Dissonant Whispers,1,ENCHANTMENT,Point (60 feet),N,Y,N,N,N,0,ST,,wisdom,5,7d6+0,psychic,4.518480571,2.163135531
+Dissonant Whispers,1,ENCHANTMENT,Point (60 feet),N,Y,N,N,N,0,ST,,wisdom,6,8d6+0,psychic,4.830458915,2.312489154
+Dissonant Whispers,1,ENCHANTMENT,Point (60 feet),N,Y,N,N,N,0,ST,,wisdom,7,9d6+0,psychic,5.123475383,2.452765143
+Dissonant Whispers,1,ENCHANTMENT,Point (60 feet),N,Y,N,N,N,0,ST,,wisdom,8,10d6+0,psychic,5.400617249,2.585441473
+Dissonant Whispers,1,ENCHANTMENT,Point (60 feet),N,Y,N,N,N,0,ST,,wisdom,9,11d6+0,psychic,5.664215156,2.711633893
+Divine Favor,1,EVOCATION,Self,Y,Y,Y,N,N,0,,,,0,1d4+0,radiant,1.118033989,0.892062058
+Dream,5,ILLUSION,Special,N,Y,Y,Y,N,0,ST,,wisdom,0,3d6+0,psychic,2.958039892,1.416104616
+Earthquake,8,EVOCATION,Point (500 feet),Y,Y,Y,Y,N,0,R,strength,constitution/dexterity,0,5d6+0,bludgeoning,3.818813079,1.828183198
+Eldritch Blast,0,EVOCATION,Point (120 feet),N,Y,Y,N,N,0,ST/MT,,,1,1d10+0,force,2.872281323,0.763916307
+Eldritch Blast,0,EVOCATION,Point (120 feet),N,Y,Y,N,N,0,ST/MT,,,5,2d10+0,force,4.062019202,1.080340802
+Eldritch Blast,0,EVOCATION,Point (120 feet),N,Y,Y,N,N,0,ST/MT,,,11,3d10+0,force,4.974937186,1.323141857
+Eldritch Blast,0,EVOCATION,Point (120 feet),N,Y,Y,N,N,0,ST/MT,,,17,4d10+0,force,5.744562647,1.527832615
+Elemental Weapon,3,TRANSMUTATION,Touch,Y,Y,Y,N,N,0,,,,0,1d4+0,damage,1.118033989,0.892062058
+Elemental Weapon,3,TRANSMUTATION,Touch,Y,Y,Y,N,N,0,,,,4,3d4+0,acid,1.936491673,1.545096808
+Elemental Weapon,3,TRANSMUTATION,Touch,Y,Y,Y,N,N,0,,,,5,5d4+0,acid,2.5,1.994711402
+Elemental Weapon,3,TRANSMUTATION,Touch,Y,Y,Y,N,N,0,,,,6,7d4+0,acid,2.958039892,2.36017436
+Elemental Weapon,3,TRANSMUTATION,Touch,Y,Y,Y,N,N,0,,,,7,9d4+0,acid,3.354101966,2.676186174
+Elemental Weapon,3,TRANSMUTATION,Touch,Y,Y,Y,N,N,0,,,,8,11d4+0,acid,3.708099244,2.958635136
+Elemental Weapon,3,TRANSMUTATION,Touch,Y,Y,Y,N,N,0,,,,9,13d4+0,acid,4.031128874,3.216375491
+Elemental Weapon,3,TRANSMUTATION,Touch,Y,Y,Y,N,N,0,,,,4,4d4+0,acid,2.236067977,1.784124116
+Elemental Weapon,3,TRANSMUTATION,Touch,Y,Y,Y,N,N,0,,,,5,7d4+0,acid,2.958039892,2.36017436
+Elemental Weapon,3,TRANSMUTATION,Touch,Y,Y,Y,N,N,0,,,,6,10d4+0,acid,3.535533906,2.820947918
+Elemental Weapon,3,TRANSMUTATION,Touch,Y,Y,Y,N,N,0,,,,7,13d4+0,acid,4.031128874,3.216375491
+Elemental Weapon,3,TRANSMUTATION,Touch,Y,Y,Y,N,N,0,,,,8,16d4+0,acid,4.472135955,3.568248232
+Elemental Weapon,3,TRANSMUTATION,Touch,Y,Y,Y,N,N,0,,,,9,19d4+0,acid,4.873397172,3.888408363
+Ensnaring Strike,1,CONJURATION,Self,Y,Y,N,N,N,0,,strength,strength,0,1d6+0,piercing,1.707825128,0.817588381
+Ensnaring Strike,1,CONJURATION,Self,Y,Y,N,N,N,0,,strength,strength,2,2d6+0,piercing,2.415229458,1.156244577
+Ensnaring Strike,1,CONJURATION,Self,Y,Y,N,N,N,0,,strength,strength,3,3d6+0,piercing,2.958039892,1.416104616
+Ensnaring Strike,1,CONJURATION,Self,Y,Y,N,N,N,0,,strength,strength,4,4d6+0,piercing,3.415650255,1.635176762
+Ensnaring Strike,1,CONJURATION,Self,Y,Y,N,N,N,0,,strength,strength,5,5d6+0,piercing,3.818813079,1.828183198
+Ensnaring Strike,1,CONJURATION,Self,Y,Y,N,N,N,0,,strength,strength,6,6d6+0,piercing,4.183300133,2.002674353
+Ensnaring Strike,1,CONJURATION,Self,Y,Y,N,N,N,0,,strength,strength,7,7d6+0,piercing,4.518480571,2.163135531
+Ensnaring Strike,1,CONJURATION,Self,Y,Y,N,N,N,0,,strength,strength,8,8d6+0,piercing,4.830458915,2.312489154
+Ensnaring Strike,1,CONJURATION,Self,Y,Y,N,N,N,0,,strength,strength,9,9d6+0,piercing,5.123475383,2.452765143
+Evard's Black Tentacles,4,CONJURATION,Point (90 feet),Y,Y,Y,Y,N,0,Q,strength/dexterity,dexterity,0,3d6+0,bludgeoning,2.958039892,1.416104616
+Evard's Black Tentacles,4,CONJURATION,Point (90 feet),Y,Y,Y,Y,N,0,Q,strength/dexterity,dexterity,0,3d6+0,bludgeoning,2.958039892,1.416104616
+Feeblemind,8,ENCHANTMENT,Point (150 feet),N,Y,Y,Y,N,0,ST,,intelligence,0,4d6+0,psychic,3.415650255,1.635176762
+Finger of Death,7,NECROMANCY,Point (60 feet),N,Y,Y,N,N,0,ST,,constitution,0,7d8+30,necrotic,6.062177826,4.04721718
+Fire Bolt,0,EVOCATION,Point (120 feet),N,Y,Y,N,N,0,ST,,,1,1d10+0,fire,2.872281323,0.763916307
+Fire Bolt,0,EVOCATION,Point (120 feet),N,Y,Y,N,N,0,ST,,,5,2d10+0,fire,4.062019202,1.080340802
+Fire Bolt,0,EVOCATION,Point (120 feet),N,Y,Y,N,N,0,ST,,,11,3d10+0,fire,4.974937186,1.323141857
+Fire Bolt,0,EVOCATION,Point (120 feet),N,Y,Y,N,N,0,ST,,,17,4d10+0,fire,5.744562647,1.527832615
+Fire Shield,4,EVOCATION,Self,N,Y,Y,Y,N,0,,,,0,2d8+0,fire,3.240370349,1.108046346
+Fire Shield,4,EVOCATION,Self,N,Y,Y,Y,N,0,,,,0,2d8+0,cold,3.240370349,1.108046346
+Fire Storm,7,EVOCATION,Point (150 feet),N,Y,Y,N,N,0,C,,dexterity,0,7d10+0,fire,7.599342077,2.021132572
+Fireball,3,EVOCATION,Point (150 feet),N,Y,Y,Y,N,0,S,,dexterity,0,8d6+0,fire,4.830458915,2.312489154
+Fireball,3,EVOCATION,Point (150 feet),N,Y,Y,Y,N,0,S,,dexterity,4,9d6+0,fire,5.123475383,2.452765143
+Fireball,3,EVOCATION,Point (150 feet),N,Y,Y,Y,N,0,S,,dexterity,5,10d6+0,fire,5.400617249,2.585441473
+Fireball,3,EVOCATION,Point (150 feet),N,Y,Y,Y,N,0,S,,dexterity,6,11d6+0,fire,5.664215156,2.711633893
+Fireball,3,EVOCATION,Point (150 feet),N,Y,Y,Y,N,0,S,,dexterity,7,12d6+0,fire,5.916079783,2.832209232
+Fireball,3,EVOCATION,Point (150 feet),N,Y,Y,Y,N,0,S,,dexterity,8,13d6+0,fire,6.157651067,2.94785683
+Fireball,3,EVOCATION,Point (150 feet),N,Y,Y,Y,N,0,S,,dexterity,9,14d6+0,fire,6.390096504,3.059135606
+Flame Blade,2,EVOCATION,Self,Y,Y,Y,Y,N,0,ST,,,0,3d6+0,fire,2.958039892,1.416104616
+Flame Strike,5,EVOCATION,Point (60 feet),N,Y,Y,Y,N,0,Y,,dexterity,0,4d6+0,fire,3.415650255,1.635176762
+Flame Strike,5,EVOCATION,Point (60 feet),N,Y,Y,Y,N,0,Y,,dexterity,0,4d6+0,radiant,3.415650255,1.635176762
+Flame Strike,5,EVOCATION,Point (60 feet),N,Y,Y,Y,N,0,Y,,dexterity,6,5d6+0,fire,3.818813079,1.828183198
+Flame Strike,5,EVOCATION,Point (60 feet),N,Y,Y,Y,N,0,Y,,dexterity,7,6d6+0,fire,4.183300133,2.002674353
+Flame Strike,5,EVOCATION,Point (60 feet),N,Y,Y,Y,N,0,Y,,dexterity,8,7d6+0,fire,4.518480571,2.163135531
+Flame Strike,5,EVOCATION,Point (60 feet),N,Y,Y,Y,N,0,Y,,dexterity,9,8d6+0,fire,4.830458915,2.312489154
+Flaming Sphere,2,CONJURATION,Point (60 feet),Y,Y,Y,Y,N,0,S,,dexterity,0,2d6+0,fire,2.415229458,1.156244577
+Flaming Sphere,2,CONJURATION,Point (60 feet),Y,Y,Y,Y,N,0,S,,dexterity,3,3d6+0,fire,2.958039892,1.416104616
+Flaming Sphere,2,CONJURATION,Point (60 feet),Y,Y,Y,Y,N,0,S,,dexterity,4,4d6+0,fire,3.415650255,1.635176762
+Flaming Sphere,2,CONJURATION,Point (60 feet),Y,Y,Y,Y,N,0,S,,dexterity,5,5d6+0,fire,3.818813079,1.828183198
+Flaming Sphere,2,CONJURATION,Point (60 feet),Y,Y,Y,Y,N,0,S,,dexterity,6,6d6+0,fire,4.183300133,2.002674353
+Flaming Sphere,2,CONJURATION,Point (60 feet),Y,Y,Y,Y,N,0,S,,dexterity,7,7d6+0,fire,4.518480571,2.163135531
+Flaming Sphere,2,CONJURATION,Point (60 feet),Y,Y,Y,Y,N,0,S,,dexterity,8,8d6+0,fire,4.830458915,2.312489154
+Flaming Sphere,2,CONJURATION,Point (60 feet),Y,Y,Y,Y,N,0,S,,dexterity,9,9d6+0,fire,5.123475383,2.452765143
+Forbiddance,6,ABJURATION,Touch,N,Y,Y,Y,Y,100000,,,,0,5d10+0,radiant,6.422616289,1.708168792
+Geas,5,ENCHANTMENT,Point (60 feet),N,Y,N,N,N,0,ST,,wisdom,0,5d10+0,psychic,6.422616289,1.708168792
+Glyph of Warding,3,ABJURATION,Touch,N,Y,Y,Y,Y,20000,S,intelligence,dexterity,0,5d8+0,acid,5.123475383,1.751975102
+Glyph of Warding,3,ABJURATION,Touch,N,Y,Y,Y,Y,20000,S,intelligence,dexterity,4,6d8+0,acid,5.61248608,1.919192568
+Glyph of Warding,3,ABJURATION,Touch,N,Y,Y,Y,Y,20000,S,intelligence,dexterity,5,7d8+0,acid,6.062177826,2.072964897
+Glyph of Warding,3,ABJURATION,Touch,N,Y,Y,Y,Y,20000,S,intelligence,dexterity,6,8d8+0,acid,6.480740698,2.216092691
+Glyph of Warding,3,ABJURATION,Touch,N,Y,Y,Y,Y,20000,S,intelligence,dexterity,7,9d8+0,acid,6.873863542,2.350521254
+Glyph of Warding,3,ABJURATION,Touch,N,Y,Y,Y,Y,20000,S,intelligence,dexterity,8,10d8+0,acid,7.245688373,2.477666951
+Glyph of Warding,3,ABJURATION,Touch,N,Y,Y,Y,Y,20000,S,intelligence,dexterity,9,11d8+0,acid,7.599342077,2.598599021
+Guiding Bolt,1,EVOCATION,Point (120 feet),N,Y,Y,N,N,0,ST,,,0,4d6+0,radiant,3.415650255,1.635176762
+Guiding Bolt,1,EVOCATION,Point (120 feet),N,Y,Y,N,N,0,ST,,,2,5d6+0,radiant,3.818813079,1.828183198
+Guiding Bolt,1,EVOCATION,Point (120 feet),N,Y,Y,N,N,0,ST,,,3,6d6+0,radiant,4.183300133,2.002674353
+Guiding Bolt,1,EVOCATION,Point (120 feet),N,Y,Y,N,N,0,ST,,,4,7d6+0,radiant,4.518480571,2.163135531
+Guiding Bolt,1,EVOCATION,Point (120 feet),N,Y,Y,N,N,0,ST,,,5,8d6+0,radiant,4.830458915,2.312489154
+Guiding Bolt,1,EVOCATION,Point (120 feet),N,Y,Y,N,N,0,ST,,,6,9d6+0,radiant,5.123475383,2.452765143
+Guiding Bolt,1,EVOCATION,Point (120 feet),N,Y,Y,N,N,0,ST,,,7,10d6+0,radiant,5.400617249,2.585441473
+Guiding Bolt,1,EVOCATION,Point (120 feet),N,Y,Y,N,N,0,ST,,,8,11d6+0,radiant,5.664215156,2.711633893
+Guiding Bolt,1,EVOCATION,Point (120 feet),N,Y,Y,N,N,0,ST,,,9,12d6+0,radiant,5.916079783,2.832209232
+Hail of Thorns,1,CONJURATION,Self,Y,Y,N,N,N,0,S,,dexterity,0,1d10+0,piercing,2.872281323,0.763916307
+Harm,6,NECROMANCY,Point (60 feet),N,Y,Y,N,N,0,ST,,constitution,0,14d6+0,necrotic,6.390096504,3.059135606
+Heat Metal,2,TRANSMUTATION,Point (60 feet),Y,Y,Y,Y,N,0,ST,,constitution,0,2d8+0,fire,3.240370349,1.108046346
+Heat Metal,2,TRANSMUTATION,Point (60 feet),Y,Y,Y,Y,N,0,ST,,constitution,3,3d8+0,fire,3.968626967,1.357074079
+Heat Metal,2,TRANSMUTATION,Point (60 feet),Y,Y,Y,Y,N,0,ST,,constitution,4,4d8+0,fire,4.582575695,1.56701417
+Heat Metal,2,TRANSMUTATION,Point (60 feet),Y,Y,Y,Y,N,0,ST,,constitution,5,5d8+0,fire,5.123475383,1.751975102
+Heat Metal,2,TRANSMUTATION,Point (60 feet),Y,Y,Y,Y,N,0,ST,,constitution,6,6d8+0,fire,5.61248608,1.919192568
+Heat Metal,2,TRANSMUTATION,Point (60 feet),Y,Y,Y,Y,N,0,ST,,constitution,7,7d8+0,fire,6.062177826,2.072964897
+Heat Metal,2,TRANSMUTATION,Point (60 feet),Y,Y,Y,Y,N,0,ST,,constitution,8,8d8+0,fire,6.480740698,2.216092691
+Heat Metal,2,TRANSMUTATION,Point (60 feet),Y,Y,Y,Y,N,0,ST,,constitution,9,9d8+0,fire,6.873863542,2.350521254
+Hellish Rebuke,1,EVOCATION,Point (60 feet),N,Y,Y,N,N,0,ST,,dexterity,0,2d10+0,fire,4.062019202,1.080340802
+Hex,1,ENCHANTMENT,Point (90 feet),Y,Y,Y,Y,N,0,ST,,,0,1d6+0,necrotic,1.707825128,0.817588381
+Hunger of Hadar,3,CONJURATION,Point (150 feet),Y,Y,Y,Y,N,0,S,,dexterity,0,2d6+0,cold,2.415229458,1.156244577
+Hunger of Hadar,3,CONJURATION,Point (150 feet),Y,Y,Y,Y,N,0,S,,dexterity,0,2d6+0,acid,2.415229458,1.156244577
+Ice Storm,4,EVOCATION,Point (300 feet),N,Y,Y,Y,N,0,Y,,dexterity,0,2d8+0,bludgeoning,3.240370349,1.108046346
+Ice Storm,4,EVOCATION,Point (300 feet),N,Y,Y,Y,N,0,Y,,dexterity,0,4d6+0,cold,3.415650255,1.635176762
+Ice Storm,4,EVOCATION,Point (300 feet),N,Y,Y,Y,N,0,Y,,dexterity,5,3d8+0,bludgeoning,3.968626967,1.357074079
+Ice Storm,4,EVOCATION,Point (300 feet),N,Y,Y,Y,N,0,Y,,dexterity,6,4d8+0,bludgeoning,4.582575695,1.56701417
+Ice Storm,4,EVOCATION,Point (300 feet),N,Y,Y,Y,N,0,Y,,dexterity,7,5d8+0,bludgeoning,5.123475383,1.751975102
+Ice Storm,4,EVOCATION,Point (300 feet),N,Y,Y,Y,N,0,Y,,dexterity,8,6d8+0,bludgeoning,5.61248608,1.919192568
+Ice Storm,4,EVOCATION,Point (300 feet),N,Y,Y,Y,N,0,Y,,dexterity,9,7d8+0,bludgeoning,6.062177826,2.072964897
+Incendiary Cloud,8,CONJURATION,Point (150 feet),Y,Y,Y,N,N,0,S,,dexterity,0,10d8+0,fire,7.245688373,2.477666951
+Inflict Wounds,1,NECROMANCY,Touch,N,Y,Y,N,N,0,ST,,,0,3d10+0,necrotic,4.974937186,1.323141857
+Insect Plague,5,CONJURATION,Point (300 feet),Y,Y,Y,Y,N,0,S,,constitution,0,4d10+0,piercing,5.744562647,1.527832615
+Lightning Arrow,3,TRANSMUTATION,Self,Y,Y,Y,N,N,0,S,,dexterity,0,4d8+0,lightning,4.582575695,1.56701417
+Lightning Arrow,3,TRANSMUTATION,Self,Y,Y,Y,N,N,0,S,,dexterity,0,2d8+0,lightning,3.240370349,1.108046346
+Lightning Bolt,3,EVOCATION,100-feet line,N,Y,Y,Y,N,0,L,,dexterity,0,8d6+0,lightning,4.830458915,2.312489154
+Lightning Bolt,3,EVOCATION,100-feet line,N,Y,Y,Y,N,0,L,,dexterity,4,9d6+0,lightning,5.123475383,2.452765143
+Lightning Bolt,3,EVOCATION,100-feet line,N,Y,Y,Y,N,0,L,,dexterity,5,10d6+0,lightning,5.400617249,2.585441473
+Lightning Bolt,3,EVOCATION,100-feet line,N,Y,Y,Y,N,0,L,,dexterity,6,11d6+0,lightning,5.664215156,2.711633893
+Lightning Bolt,3,EVOCATION,100-feet line,N,Y,Y,Y,N,0,L,,dexterity,7,12d6+0,lightning,5.916079783,2.832209232
+Lightning Bolt,3,EVOCATION,100-feet line,N,Y,Y,Y,N,0,L,,dexterity,8,13d6+0,lightning,6.157651067,2.94785683
+Lightning Bolt,3,EVOCATION,100-feet line,N,Y,Y,Y,N,0,L,,dexterity,9,14d6+0,lightning,6.390096504,3.059135606
+Magic Missile,1,EVOCATION,Point (120 feet),N,Y,Y,N,N,0,ST/MT,,,0,1d4+1,force,1.118033989,1.248886881
+Meld into Stone,3,TRANSMUTATION,Touch,N,Y,Y,N,N,0,,,,0,6d6+0,bludgeoning,4.183300133,2.002674353
+Melf's Acid Arrow,2,EVOCATION,Point (90 feet),N,Y,Y,Y,N,0,ST,,,0,4d4+0,acid,2.236067977,1.784124116
+Melf's Acid Arrow,2,EVOCATION,Point (90 feet),N,Y,Y,Y,N,0,ST,,,0,2d4+0,acid,1.58113883,1.261566261
+Meteor Swarm,9,EVOCATION,Point (1 miles),N,Y,Y,N,N,0,S,,dexterity,0,20d6+0,fire,7.637626158,3.656366396
+Meteor Swarm,9,EVOCATION,Point (1 miles),N,Y,Y,N,N,0,S,,dexterity,0,20d6+0,bludgeoning,7.637626158,3.656366396
+Moonbeam,2,EVOCATION,Point (120 feet),Y,Y,Y,Y,N,0,Y,,constitution,0,2d10+0,radiant,4.062019202,1.080340802
+Mordenkainen's Faithful Hound,4,CONJURATION,Point (30 feet),N,Y,Y,Y,N,0,,,,0,4d8+0,piercing,4.582575695,1.56701417
+Mordenkainen's Sword,7,EVOCATION,Point (60 feet),Y,Y,Y,Y,N,25000,ST,,,0,3d10+0,force,4.974937186,1.323141857
+Otiluke's Freezing Sphere,6,EVOCATION,Point (300 feet),N,Y,Y,Y,N,0,S,strength,constitution,0,10d6+0,cold,5.400617249,2.585441473
+Otiluke's Freezing Sphere,6,EVOCATION,Point (300 feet),N,Y,Y,Y,N,0,S,strength,constitution,7,11d6+0,cold,5.664215156,2.711633893
+Otiluke's Freezing Sphere,6,EVOCATION,Point (300 feet),N,Y,Y,Y,N,0,S,strength,constitution,8,12d6+0,cold,5.916079783,2.832209232
+Otiluke's Freezing Sphere,6,EVOCATION,Point (300 feet),N,Y,Y,Y,N,0,S,strength,constitution,9,13d6+0,cold,6.157651067,2.94785683
+Phantasmal Force,2,ILLUSION,Point (60 feet),Y,Y,Y,Y,N,0,,intelligence,intelligence,0,1d6+0,psychic,1.707825128,0.817588381
+Phantasmal Killer,4,ILLUSION,Point (120 feet),Y,Y,Y,N,N,0,ST,,wisdom,0,4d10+0,psychic,5.744562647,1.527832615
+Poison Spray,0,CONJURATION,Point (10 feet),N,Y,Y,N,N,0,ST,,constitution,1,1d12+0,poison,3.45205253,0.751183477
+Poison Spray,0,CONJURATION,Point (10 feet),N,Y,Y,N,N,0,ST,,constitution,5,2d12+0,poison,4.881939505,1.062333861
+Poison Spray,0,CONJURATION,Point (10 feet),N,Y,Y,N,N,0,ST,,constitution,11,3d12+0,poison,5.979130372,1.301087948
+Poison Spray,0,CONJURATION,Point (10 feet),N,Y,Y,N,N,0,ST,,constitution,17,4d12+0,poison,6.904105059,1.502366954
+Prismatic Spray,7,EVOCATION,60-feet cone,N,Y,Y,N,N,0,N,,dexterity/constitution/wisdom,0,10d6+0,fire,5.400617249,2.585441473
+Prismatic Spray,7,EVOCATION,60-feet cone,N,Y,Y,N,N,0,N,,dexterity/constitution/wisdom,0,10d6+0,acid,5.400617249,2.585441473
+Prismatic Spray,7,EVOCATION,60-feet cone,N,Y,Y,N,N,0,N,,dexterity/constitution/wisdom,0,10d6+0,lightning,5.400617249,2.585441473
+Prismatic Spray,7,EVOCATION,60-feet cone,N,Y,Y,N,N,0,N,,dexterity/constitution/wisdom,0,10d6+0,poison,5.400617249,2.585441473
+Prismatic Spray,7,EVOCATION,60-feet cone,N,Y,Y,N,N,0,N,,dexterity/constitution/wisdom,0,10d6+0,cold,5.400617249,2.585441473
+Prismatic Wall,9,ABJURATION,Point (60 feet),N,Y,Y,N,N,0,W,,constitution/dexterity/wisdom,0,10d6+0,fire,5.400617249,2.585441473
+Prismatic Wall,9,ABJURATION,Point (60 feet),N,Y,Y,N,N,0,W,,constitution/dexterity/wisdom,0,10d6+0,acid,5.400617249,2.585441473
+Prismatic Wall,9,ABJURATION,Point (60 feet),N,Y,Y,N,N,0,W,,constitution/dexterity/wisdom,0,10d6+0,lightning,5.400617249,2.585441473
+Prismatic Wall,9,ABJURATION,Point (60 feet),N,Y,Y,N,N,0,W,,constitution/dexterity/wisdom,0,10d6+0,poison,5.400617249,2.585441473
+Prismatic Wall,9,ABJURATION,Point (60 feet),N,Y,Y,N,N,0,W,,constitution/dexterity/wisdom,0,10d6+0,cold,5.400617249,2.585441473
+Produce Flame,0,CONJURATION,Self,N,Y,Y,N,N,0,ST,,,1,1d8+0,fire,2.291287847,0.783507085
+Produce Flame,0,CONJURATION,Self,N,Y,Y,N,N,0,ST,,,5,2d8+0,fire,3.240370349,1.108046346
+Produce Flame,0,CONJURATION,Self,N,Y,Y,N,N,0,ST,,,11,3d8+0,fire,3.968626967,1.357074079
+Produce Flame,0,CONJURATION,Self,N,Y,Y,N,N,0,ST,,,17,4d8+0,fire,4.582575695,1.56701417
+Ray of Frost,0,EVOCATION,Point (60 feet),N,Y,Y,N,N,0,ST,,,1,1d8+0,cold,2.291287847,0.783507085
+Ray of Frost,0,EVOCATION,Point (60 feet),N,Y,Y,N,N,0,ST,,,5,2d8+0,cold,3.240370349,1.108046346
+Ray of Frost,0,EVOCATION,Point (60 feet),N,Y,Y,N,N,0,ST,,,11,3d8+0,cold,3.968626967,1.357074079
+Ray of Frost,0,EVOCATION,Point (60 feet),N,Y,Y,N,N,0,ST,,,17,4d8+0,cold,4.582575695,1.56701417
+Ray of Sickness,1,NECROMANCY,Point (60 feet),N,Y,Y,N,N,0,ST,,constitution,0,2d8+0,poison,3.240370349,1.108046346
+Ray of Sickness,1,NECROMANCY,Point (60 feet),N,Y,Y,N,N,0,ST,,constitution,2,3d8+0,poison,3.968626967,1.357074079
+Ray of Sickness,1,NECROMANCY,Point (60 feet),N,Y,Y,N,N,0,ST,,constitution,3,4d8+0,poison,4.582575695,1.56701417
+Ray of Sickness,1,NECROMANCY,Point (60 feet),N,Y,Y,N,N,0,ST,,constitution,4,5d8+0,poison,5.123475383,1.751975102
+Ray of Sickness,1,NECROMANCY,Point (60 feet),N,Y,Y,N,N,0,ST,,constitution,5,6d8+0,poison,5.61248608,1.919192568
+Ray of Sickness,1,NECROMANCY,Point (60 feet),N,Y,Y,N,N,0,ST,,constitution,6,7d8+0,poison,6.062177826,2.072964897
+Ray of Sickness,1,NECROMANCY,Point (60 feet),N,Y,Y,N,N,0,ST,,constitution,7,8d8+0,poison,6.480740698,2.216092691
+Ray of Sickness,1,NECROMANCY,Point (60 feet),N,Y,Y,N,N,0,ST,,constitution,8,9d8+0,poison,6.873863542,2.350521254
+Ray of Sickness,1,NECROMANCY,Point (60 feet),N,Y,Y,N,N,0,ST,,constitution,9,10d8+0,poison,7.245688373,2.477666951
+Sacred Flame,0,EVOCATION,Point (60 feet),N,Y,Y,N,N,0,ST,,dexterity,1,1d8+0,radiant,2.291287847,0.783507085
+Sacred Flame,0,EVOCATION,Point (60 feet),N,Y,Y,N,N,0,ST,,dexterity,5,2d8+0,radiant,3.240370349,1.108046346
+Sacred Flame,0,EVOCATION,Point (60 feet),N,Y,Y,N,N,0,ST,,dexterity,11,3d8+0,radiant,3.968626967,1.357074079
+Sacred Flame,0,EVOCATION,Point (60 feet),N,Y,Y,N,N,0,ST,,dexterity,17,4d8+0,radiant,4.582575695,1.56701417
+Scorching Ray,2,EVOCATION,Point (120 feet),N,Y,Y,N,N,0,ST/MT,,,0,2d6+0,fire,2.415229458,1.156244577
+Searing Smite,1,EVOCATION,Self,Y,Y,N,N,N,0,,,constitution,0,1d6+0,fire,1.707825128,0.817588381
+Searing Smite,1,EVOCATION,Self,Y,Y,N,N,N,0,,,constitution,0,1d6+0,fire,1.707825128,0.817588381
+Searing Smite,1,EVOCATION,Self,Y,Y,N,N,N,0,,,constitution,2,2d6+0,fire,2.415229458,1.156244577
+Searing Smite,1,EVOCATION,Self,Y,Y,N,N,N,0,,,constitution,3,3d6+0,fire,2.958039892,1.416104616
+Searing Smite,1,EVOCATION,Self,Y,Y,N,N,N,0,,,constitution,4,4d6+0,fire,3.415650255,1.635176762
+Searing Smite,1,EVOCATION,Self,Y,Y,N,N,N,0,,,constitution,5,5d6+0,fire,3.818813079,1.828183198
+Searing Smite,1,EVOCATION,Self,Y,Y,N,N,N,0,,,constitution,6,6d6+0,fire,4.183300133,2.002674353
+Searing Smite,1,EVOCATION,Self,Y,Y,N,N,N,0,,,constitution,7,7d6+0,fire,4.518480571,2.163135531
+Searing Smite,1,EVOCATION,Self,Y,Y,N,N,N,0,,,constitution,8,8d6+0,fire,4.830458915,2.312489154
+Searing Smite,1,EVOCATION,Self,Y,Y,N,N,N,0,,,constitution,9,9d6+0,fire,5.123475383,2.452765143
+Shatter,2,EVOCATION,Point (60 feet),N,Y,Y,Y,N,0,S,,constitution,0,3d8+0,thunder,3.968626967,1.357074079
+Shatter,2,EVOCATION,Point (60 feet),N,Y,Y,Y,N,0,S,,constitution,3,4d8+0,thunder,4.582575695,1.56701417
+Shatter,2,EVOCATION,Point (60 feet),N,Y,Y,Y,N,0,S,,constitution,4,5d8+0,thunder,5.123475383,1.751975102
+Shatter,2,EVOCATION,Point (60 feet),N,Y,Y,Y,N,0,S,,constitution,5,6d8+0,thunder,5.61248608,1.919192568
+Shatter,2,EVOCATION,Point (60 feet),N,Y,Y,Y,N,0,S,,constitution,6,7d8+0,thunder,6.062177826,2.072964897
+Shatter,2,EVOCATION,Point (60 feet),N,Y,Y,Y,N,0,S,,constitution,7,8d8+0,thunder,6.480740698,2.216092691
+Shatter,2,EVOCATION,Point (60 feet),N,Y,Y,Y,N,0,S,,constitution,8,9d8+0,thunder,6.873863542,2.350521254
+Shatter,2,EVOCATION,Point (60 feet),N,Y,Y,Y,N,0,S,,constitution,9,10d8+0,thunder,7.245688373,2.477666951
+Shocking Grasp,0,EVOCATION,Touch,N,Y,Y,N,N,0,ST,,,1,1d8+0,lightning,2.291287847,0.783507085
+Shocking Grasp,0,EVOCATION,Touch,N,Y,Y,N,N,0,ST,,,5,2d8+0,lightning,3.240370349,1.108046346
+Shocking Grasp,0,EVOCATION,Touch,N,Y,Y,N,N,0,ST,,,11,3d8+0,lightning,3.968626967,1.357074079
+Shocking Grasp,0,EVOCATION,Touch,N,Y,Y,N,N,0,ST,,,17,4d8+0,lightning,4.582575695,1.56701417
+Spike Growth,2,TRANSMUTATION,Point (150 feet),Y,Y,Y,Y,N,0,R,wisdom,,0,2d4+0,piercing,1.58113883,1.261566261
+Spirit Guardians,3,CONJURATION,15-feet radius,Y,Y,Y,Y,N,0,S,,wisdom,0,3d8+0,radiant,3.968626967,1.357074079
+Spirit Guardians,3,CONJURATION,15-feet radius,Y,Y,Y,Y,N,0,S,,wisdom,0,3d8+0,necrotic,3.968626967,1.357074079
+Spirit Guardians,3,CONJURATION,15-feet radius,Y,Y,Y,Y,N,0,S,,wisdom,4,4d8+0,necrotic,4.582575695,1.56701417
+Spirit Guardians,3,CONJURATION,15-feet radius,Y,Y,Y,Y,N,0,S,,wisdom,5,5d8+0,necrotic,5.123475383,1.751975102
+Spirit Guardians,3,CONJURATION,15-feet radius,Y,Y,Y,Y,N,0,S,,wisdom,6,6d8+0,necrotic,5.61248608,1.919192568
+Spirit Guardians,3,CONJURATION,15-feet radius,Y,Y,Y,Y,N,0,S,,wisdom,7,7d8+0,necrotic,6.062177826,2.072964897
+Spirit Guardians,3,CONJURATION,15-feet radius,Y,Y,Y,Y,N,0,S,,wisdom,8,8d8+0,necrotic,6.480740698,2.216092691
+Spirit Guardians,3,CONJURATION,15-feet radius,Y,Y,Y,Y,N,0,S,,wisdom,9,9d8+0,necrotic,6.873863542,2.350521254
+Staggering Smite,4,EVOCATION,Self,Y,Y,N,N,N,0,,,wisdom,0,4d6+0,psychic,3.415650255,1.635176762
+Storm of Vengeance,9,CONJURATION,Sight,Y,Y,Y,N,N,0,Y,,constitution/dexterity,0,2d6+0,thunder,2.415229458,1.156244577
+Storm of Vengeance,9,CONJURATION,Sight,Y,Y,Y,N,N,0,Y,,constitution/dexterity,0,1d6+0,acid,1.707825128,0.817588381
+Storm of Vengeance,9,CONJURATION,Sight,Y,Y,Y,N,N,0,Y,,constitution/dexterity,0,10d6+0,lightning,5.400617249,2.585441473
+Storm of Vengeance,9,CONJURATION,Sight,Y,Y,Y,N,N,0,Y,,constitution/dexterity,0,2d6+0,bludgeoning,2.415229458,1.156244577
+Storm of Vengeance,9,CONJURATION,Sight,Y,Y,Y,N,N,0,Y,,constitution/dexterity,0,1d6+0,cold,1.707825128,0.817588381
+Sunbeam,6,EVOCATION,60-feet line,Y,Y,Y,Y,N,0,L,,constitution,0,6d8+0,radiant,5.61248608,1.919192568
+Sunburst,8,EVOCATION,Point (150 feet),N,Y,Y,Y,N,0,S,,constitution,0,12d6+0,radiant,5.916079783,2.832209232
+Symbol,7,ABJURATION,Touch,N,Y,Y,Y,Y,100000,S,intelligence,constitution/wisdom/charisma/intelligence,0,10d10+0,necrotic,9.082951062,2.415715473
+Thorn Whip,0,TRANSMUTATION,Point (30 feet),N,Y,Y,Y,N,0,ST,,,1,1d6+0,piercing,1.707825128,0.817588381
+Thorn Whip,0,TRANSMUTATION,Point (30 feet),N,Y,Y,Y,N,0,ST,,,5,2d6+0,piercing,2.415229458,1.156244577
+Thorn Whip,0,TRANSMUTATION,Point (30 feet),N,Y,Y,Y,N,0,ST,,,11,3d6+0,piercing,2.958039892,1.416104616
+Thorn Whip,0,TRANSMUTATION,Point (30 feet),N,Y,Y,Y,N,0,ST,,,17,4d6+0,piercing,3.415650255,1.635176762
+Thunderous Smite,1,EVOCATION,Self,Y,Y,N,N,N,0,,,strength,0,2d6+0,thunder,2.415229458,1.156244577
+Thunderwave,1,EVOCATION,15-feet cube,N,Y,Y,N,N,0,C,,constitution,0,2d8+0,thunder,3.240370349,1.108046346
+Thunderwave,1,EVOCATION,15-feet cube,N,Y,Y,N,N,0,C,,constitution,2,3d8+0,thunder,3.968626967,1.357074079
+Thunderwave,1,EVOCATION,15-feet cube,N,Y,Y,N,N,0,C,,constitution,3,4d8+0,thunder,4.582575695,1.56701417
+Thunderwave,1,EVOCATION,15-feet cube,N,Y,Y,N,N,0,C,,constitution,4,5d8+0,thunder,5.123475383,1.751975102
+Thunderwave,1,EVOCATION,15-feet cube,N,Y,Y,N,N,0,C,,constitution,5,6d8+0,thunder,5.61248608,1.919192568
+Thunderwave,1,EVOCATION,15-feet cube,N,Y,Y,N,N,0,C,,constitution,6,7d8+0,thunder,6.062177826,2.072964897
+Thunderwave,1,EVOCATION,15-feet cube,N,Y,Y,N,N,0,C,,constitution,7,8d8+0,thunder,6.480740698,2.216092691
+Thunderwave,1,EVOCATION,15-feet cube,N,Y,Y,N,N,0,C,,constitution,8,9d8+0,thunder,6.873863542,2.350521254
+Thunderwave,1,EVOCATION,15-feet cube,N,Y,Y,N,N,0,C,,constitution,9,10d8+0,thunder,7.245688373,2.477666951
+Tsunami,8,CONJURATION,Sight,Y,Y,Y,N,N,0,W,strength,strength,0,6d10+0,bludgeoning,7.03562364,1.871205159
+Tsunami,8,CONJURATION,Sight,Y,Y,Y,N,N,0,W,strength,strength,0,5d10+0,bludgeoning,6.422616289,1.708168792
+Vampiric Touch,3,NECROMANCY,Self,Y,Y,Y,N,N,0,ST,,,0,3d6+0,necrotic,2.958039892,1.416104616
+Vampiric Touch,3,NECROMANCY,Self,Y,Y,Y,N,N,0,ST,,,4,4d6+0,necrotic,3.415650255,1.635176762
+Vampiric Touch,3,NECROMANCY,Self,Y,Y,Y,N,N,0,ST,,,5,5d6+0,necrotic,3.818813079,1.828183198
+Vampiric Touch,3,NECROMANCY,Self,Y,Y,Y,N,N,0,ST,,,6,6d6+0,necrotic,4.183300133,2.002674353
+Vampiric Touch,3,NECROMANCY,Self,Y,Y,Y,N,N,0,ST,,,7,7d6+0,necrotic,4.518480571,2.163135531
+Vampiric Touch,3,NECROMANCY,Self,Y,Y,Y,N,N,0,ST,,,8,8d6+0,necrotic,4.830458915,2.312489154
+Vampiric Touch,3,NECROMANCY,Self,Y,Y,Y,N,N,0,ST,,,9,9d6+0,necrotic,5.123475383,2.452765143
+Vicious Mockery,0,ENCHANTMENT,Point (60 feet),N,Y,N,N,N,0,ST,,wisdom,1,1d4+0,psychic,1.118033989,0.892062058
+Vicious Mockery,0,ENCHANTMENT,Point (60 feet),N,Y,N,N,N,0,ST,,wisdom,5,2d4+0,psychic,1.58113883,1.261566261
+Vicious Mockery,0,ENCHANTMENT,Point (60 feet),N,Y,N,N,N,0,ST,,wisdom,11,3d4+0,psychic,1.936491673,1.545096808
+Vicious Mockery,0,ENCHANTMENT,Point (60 feet),N,Y,N,N,N,0,ST,,wisdom,17,4d4+0,psychic,2.236067977,1.784124116
+Wall of Fire,4,EVOCATION,Point (120 feet),Y,Y,Y,Y,N,0,W,,dexterity,0,5d8+0,fire,5.123475383,1.751975102
+Wall of Fire,4,EVOCATION,Point (120 feet),Y,Y,Y,Y,N,0,W,,dexterity,0,5d8+0,fire,5.123475383,1.751975102
+Wall of Fire,4,EVOCATION,Point (120 feet),Y,Y,Y,Y,N,0,W,,dexterity,5,6d8+0,fire,5.61248608,1.919192568
+Wall of Fire,4,EVOCATION,Point (120 feet),Y,Y,Y,Y,N,0,W,,dexterity,6,7d8+0,fire,6.062177826,2.072964897
+Wall of Fire,4,EVOCATION,Point (120 feet),Y,Y,Y,Y,N,0,W,,dexterity,7,8d8+0,fire,6.480740698,2.216092691
+Wall of Fire,4,EVOCATION,Point (120 feet),Y,Y,Y,Y,N,0,W,,dexterity,8,9d8+0,fire,6.873863542,2.350521254
+Wall of Fire,4,EVOCATION,Point (120 feet),Y,Y,Y,Y,N,0,W,,dexterity,9,10d8+0,fire,7.245688373,2.477666951
+Wall of Ice,6,EVOCATION,Point (120 feet),Y,Y,Y,Y,N,0,W,,dexterity/constitution,0,10d6+0,cold,5.400617249,2.585441473
+Wall of Ice,6,EVOCATION,Point (120 feet),Y,Y,Y,Y,N,0,W,,dexterity/constitution,0,5d6+0,cold,3.818813079,1.828183198
+Wall of Ice,6,EVOCATION,Point (120 feet),Y,Y,Y,Y,N,0,W,,dexterity/constitution,7,12d6+0,cold,5.916079783,2.832209232
+Wall of Ice,6,EVOCATION,Point (120 feet),Y,Y,Y,Y,N,0,W,,dexterity/constitution,8,14d6+0,cold,6.390096504,3.059135606
+Wall of Ice,6,EVOCATION,Point (120 feet),Y,Y,Y,Y,N,0,W,,dexterity/constitution,9,16d6+0,cold,6.831300511,3.270353525
+Wall of Ice,6,EVOCATION,Point (120 feet),Y,Y,Y,Y,N,0,W,,dexterity/constitution,7,6d6+0,cold,4.183300133,2.002674353
+Wall of Ice,6,EVOCATION,Point (120 feet),Y,Y,Y,Y,N,0,W,,dexterity/constitution,8,7d6+0,cold,4.518480571,2.163135531
+Wall of Ice,6,EVOCATION,Point (120 feet),Y,Y,Y,Y,N,0,W,,dexterity/constitution,9,8d6+0,cold,4.830458915,2.312489154
+Wall of Thorns,6,CONJURATION,Point (120 feet),Y,Y,Y,Y,N,0,W,,dexterity,0,7d8+0,piercing,6.062177826,2.072964897
+Wall of Thorns,6,CONJURATION,Point (120 feet),Y,Y,Y,Y,N,0,W,,dexterity,0,7d8+0,slashing,6.062177826,2.072964897
+Wall of Thorns,6,CONJURATION,Point (120 feet),Y,Y,Y,Y,N,0,W,,dexterity,7,8d8+0,piercing,6.480740698,2.216092691
+Wall of Thorns,6,CONJURATION,Point (120 feet),Y,Y,Y,Y,N,0,W,,dexterity,8,9d8+0,piercing,6.873863542,2.350521254
+Wall of Thorns,6,CONJURATION,Point (120 feet),Y,Y,Y,Y,N,0,W,,dexterity,9,10d8+0,piercing,7.245688373,2.477666951
+Web,2,CONJURATION,Point (60 feet),Y,Y,Y,Y,N,0,C,strength,dexterity,0,2d4+0,fire,1.58113883,1.261566261
+Weird,9,ILLUSION,Point (120 feet),Y,Y,Y,N,N,0,S,,wisdom,0,4d10+0,psychic,5.744562647,1.527832615
+Wind Wall,3,EVOCATION,Point (120 feet),Y,Y,Y,Y,N,0,W,,strength,0,3d8+0,bludgeoning,3.968626967,1.357074079
+Wish,9,CONJURATION,Self,N,Y,N,N,N,0,,,,0,1d10+0,necrotic,2.872281323,0.763916307
+Witch Bolt,1,EVOCATION,Point (30 feet),Y,Y,Y,Y,N,0,ST,,,0,1d12+0,lightning,3.45205253,0.751183477
+Witch Bolt,1,EVOCATION,Point (30 feet),Y,Y,Y,Y,N,0,ST,,,0,1d12+0,lightning,3.45205253,0.751183477
+Wrathful Smite,1,EVOCATION,Self,Y,Y,N,N,N,0,,wisdom,wisdom,0,1d6+0,psychic,1.707825128,0.817588381
+Jim's Magic Missile,1,EVOCATION,Point (120 feet),N,Y,Y,N,N,0,ST/MT,,,0,2d4+0,force,1.58113883,1.261566261
+Jim's Magic Missile,1,EVOCATION,Point (120 feet),N,Y,Y,N,N,0,ST/MT,,,0,5d4+0,force,2.5,1.994711402
+Dark Star,8,EVOCATION,Point (150 feet),Y,Y,Y,Y,Y,0,S,,constitution,0,8d10+0,force,8.124038405,2.160681605
+Gravity Fissure,6,EVOCATION,100-feet line,N,Y,Y,Y,N,0,L,,constitution,0,8d8+0,force,6.480740698,2.216092691
+Gravity Fissure,6,EVOCATION,100-feet line,N,Y,Y,Y,N,0,L,,constitution,0,8d8+0,force,6.480740698,2.216092691
+Gravity Fissure,6,EVOCATION,100-feet line,N,Y,Y,Y,N,0,L,,constitution,7,9d8+0,force,6.873863542,2.350521254
+Gravity Fissure,6,EVOCATION,100-feet line,N,Y,Y,Y,N,0,L,,constitution,8,10d8+0,force,7.245688373,2.477666951
+Gravity Fissure,6,EVOCATION,100-feet line,N,Y,Y,Y,N,0,L,,constitution,9,11d8+0,force,7.599342077,2.598599021
+Gravity Sinkhole,4,EVOCATION,Point (120 feet),N,Y,Y,Y,N,0,S,,constitution,0,5d10+0,force,6.422616289,1.708168792
+Magnify Gravity,1,TRANSMUTATION,Point (60 feet),N,Y,Y,N,N,0,S,,constitution,0,2d8+0,force,3.240370349,1.108046346
+Magnify Gravity,1,TRANSMUTATION,Point (60 feet),N,Y,Y,N,N,0,S,,constitution,2,3d8+0,force,3.968626967,1.357074079
+Magnify Gravity,1,TRANSMUTATION,Point (60 feet),N,Y,Y,N,N,0,S,,constitution,3,4d8+0,force,4.582575695,1.56701417
+Magnify Gravity,1,TRANSMUTATION,Point (60 feet),N,Y,Y,N,N,0,S,,constitution,4,5d8+0,force,5.123475383,1.751975102
+Magnify Gravity,1,TRANSMUTATION,Point (60 feet),N,Y,Y,N,N,0,S,,constitution,5,6d8+0,force,5.61248608,1.919192568
+Magnify Gravity,1,TRANSMUTATION,Point (60 feet),N,Y,Y,N,N,0,S,,constitution,6,7d8+0,force,6.062177826,2.072964897
+Magnify Gravity,1,TRANSMUTATION,Point (60 feet),N,Y,Y,N,N,0,S,,constitution,7,8d8+0,force,6.480740698,2.216092691
+Magnify Gravity,1,TRANSMUTATION,Point (60 feet),N,Y,Y,N,N,0,S,,constitution,8,9d8+0,force,6.873863542,2.350521254
+Magnify Gravity,1,TRANSMUTATION,Point (60 feet),N,Y,Y,N,N,0,S,,constitution,9,10d8+0,force,7.245688373,2.477666951
+Pulse Wave,3,EVOCATION,30-feet cone,N,Y,Y,N,N,0,N,,constitution,0,6d6+0,force,4.183300133,2.002674353
+Pulse Wave,3,EVOCATION,30-feet cone,N,Y,Y,N,N,0,N,,constitution,4,7d6+0,force,4.518480571,2.163135531
+Pulse Wave,3,EVOCATION,30-feet cone,N,Y,Y,N,N,0,N,,constitution,5,8d6+0,force,4.830458915,2.312489154
+Pulse Wave,3,EVOCATION,30-feet cone,N,Y,Y,N,N,0,N,,constitution,6,9d6+0,force,5.123475383,2.452765143
+Pulse Wave,3,EVOCATION,30-feet cone,N,Y,Y,N,N,0,N,,constitution,7,10d6+0,force,5.400617249,2.585441473
+Pulse Wave,3,EVOCATION,30-feet cone,N,Y,Y,N,N,0,N,,constitution,8,11d6+0,force,5.664215156,2.711633893
+Pulse Wave,3,EVOCATION,30-feet cone,N,Y,Y,N,N,0,N,,constitution,9,12d6+0,force,5.916079783,2.832209232
+Ravenous Void,9,EVOCATION,Point (1000 feet),Y,Y,Y,Y,N,0,S,strength,strength,0,5d10+0,force,6.422616289,1.708168792
+Sapping Sting,0,NECROMANCY,Point (30 feet),N,Y,Y,N,N,0,ST,,constitution,1,1d4+0,necrotic,1.118033989,0.892062058
+Sapping Sting,0,NECROMANCY,Point (30 feet),N,Y,Y,N,N,0,ST,,constitution,5,2d4+0,necrotic,1.58113883,1.261566261
+Sapping Sting,0,NECROMANCY,Point (30 feet),N,Y,Y,N,N,0,ST,,constitution,11,3d4+0,necrotic,1.936491673,1.545096808
+Sapping Sting,0,NECROMANCY,Point (30 feet),N,Y,Y,N,N,0,ST,,constitution,17,4d4+0,necrotic,2.236067977,1.784124116
+Time Ravage,9,NECROMANCY,Point (90 feet),N,Y,Y,Y,Y,500000,ST,,constitution,0,10d12+0,necrotic,10.9163486,2.375450729
+Raulothim's Psychic Lance,4,ENCHANTMENT,Point (120 feet),N,Y,N,N,N,0,,,intelligence,0,7d6+0,psychic,4.518480571,2.163135531
+Raulothim's Psychic Lance,4,ENCHANTMENT,Point (120 feet),N,Y,N,N,N,0,,,intelligence,5,8d6+0,psychic,4.830458915,2.312489154
+Raulothim's Psychic Lance,4,ENCHANTMENT,Point (120 feet),N,Y,N,N,N,0,,,intelligence,6,9d6+0,psychic,5.123475383,2.452765143
+Raulothim's Psychic Lance,4,ENCHANTMENT,Point (120 feet),N,Y,N,N,N,0,,,intelligence,7,10d6+0,psychic,5.400617249,2.585441473
+Raulothim's Psychic Lance,4,ENCHANTMENT,Point (120 feet),N,Y,N,N,N,0,,,intelligence,8,11d6+0,psychic,5.664215156,2.711633893
+Raulothim's Psychic Lance,4,ENCHANTMENT,Point (120 feet),N,Y,N,N,N,0,,,intelligence,9,12d6+0,psychic,5.916079783,2.832209232
+Rime's Binding Ice,2,EVOCATION,30-feet cone,N,N,Y,Y,N,0,N,,constitution,0,3d8+0,cold,3.968626967,1.357074079
+Rime's Binding Ice,2,EVOCATION,30-feet cone,N,N,Y,Y,N,0,N,,constitution,3,4d8+0,cold,4.582575695,1.56701417
+Rime's Binding Ice,2,EVOCATION,30-feet cone,N,N,Y,Y,N,0,N,,constitution,4,5d8+0,cold,5.123475383,1.751975102
+Rime's Binding Ice,2,EVOCATION,30-feet cone,N,N,Y,Y,N,0,N,,constitution,5,6d8+0,cold,5.61248608,1.919192568
+Rime's Binding Ice,2,EVOCATION,30-feet cone,N,N,Y,Y,N,0,N,,constitution,6,7d8+0,cold,6.062177826,2.072964897
+Rime's Binding Ice,2,EVOCATION,30-feet cone,N,N,Y,Y,N,0,N,,constitution,7,8d8+0,cold,6.480740698,2.216092691
+Rime's Binding Ice,2,EVOCATION,30-feet cone,N,N,Y,Y,N,0,N,,constitution,8,9d8+0,cold,6.873863542,2.350521254
+Rime's Binding Ice,2,EVOCATION,30-feet cone,N,N,Y,Y,N,0,N,,constitution,9,10d8+0,cold,7.245688373,2.477666951
+Frost Fingers,1,EVOCATION,15-feet cone,N,Y,Y,N,N,0,N,,constitution,0,2d8+0,cold,3.240370349,1.108046346
+Kinetic Jaunt,2,TRANSMUTATION,Self,Y,N,Y,N,N,0,,,,0,1d8+0,force,2.291287847,0.783507085
+Wither and Bloom,2,NECROMANCY,Point (60 feet),N,Y,Y,Y,N,0,,,constitution,0,2d6+0,necrotic,2.415229458,1.156244577
+Wither and Bloom,2,NECROMANCY,Point (60 feet),N,Y,Y,Y,N,0,,,constitution,3,3d6+0,necrotic,2.958039892,1.416104616
+Wither and Bloom,2,NECROMANCY,Point (60 feet),N,Y,Y,Y,N,0,,,constitution,4,4d6+0,necrotic,3.415650255,1.635176762
+Wither and Bloom,2,NECROMANCY,Point (60 feet),N,Y,Y,Y,N,0,,,constitution,5,5d6+0,necrotic,3.818813079,1.828183198
+Wither and Bloom,2,NECROMANCY,Point (60 feet),N,Y,Y,Y,N,0,,,constitution,6,6d6+0,necrotic,4.183300133,2.002674353
+Wither and Bloom,2,NECROMANCY,Point (60 feet),N,Y,Y,Y,N,0,,,constitution,7,7d6+0,necrotic,4.518480571,2.163135531
+Wither and Bloom,2,NECROMANCY,Point (60 feet),N,Y,Y,Y,N,0,,,constitution,8,8d6+0,necrotic,4.830458915,2.312489154
+Wither and Bloom,2,NECROMANCY,Point (60 feet),N,Y,Y,Y,N,0,,,constitution,9,9d6+0,necrotic,5.123475383,2.452765143
+Blade of Disaster,9,CONJURATION,Point (60 feet),Y,Y,Y,N,N,0,MT,,,0,4d12+0,force,6.904105059,1.502366954
+Blade of Disaster,9,CONJURATION,Point (60 feet),Y,Y,Y,N,N,0,MT,,,0,8d12+0,force,9.763879011,2.124667723
+Blade of Disaster,9,CONJURATION,Point (60 feet),Y,Y,Y,N,N,0,MT,,,0,12d12+0,force,11.95826074,2.602175897
+Booming Blade,0,EVOCATION,5-feet radius,N,N,Y,Y,N,10,ST,,,1,1d8+0,thunder,2.291287847,0.783507085
+Booming Blade,0,EVOCATION,5-feet radius,N,N,Y,Y,N,10,ST,,,5,1d8+0,thunder,2.291287847,0.783507085
+Booming Blade,0,EVOCATION,5-feet radius,N,N,Y,Y,N,10,ST,,,11,2d8+0,thunder,3.240370349,1.108046346
+Booming Blade,0,EVOCATION,5-feet radius,N,N,Y,Y,N,10,ST,,,17,3d8+0,thunder,3.968626967,1.357074079
+Green-Flame Blade,0,EVOCATION,5-feet radius,N,N,Y,Y,N,10,ST/MT,,,1,0d0+0,fire,0,NaN
+Green-Flame Blade,0,EVOCATION,5-feet radius,N,N,Y,Y,N,10,ST/MT,,,5,1d8+0,fire,2.291287847,0.783507085
+Green-Flame Blade,0,EVOCATION,5-feet radius,N,N,Y,Y,N,10,ST/MT,,,11,2d8+0,fire,3.240370349,1.108046346
+Green-Flame Blade,0,EVOCATION,5-feet radius,N,N,Y,Y,N,10,ST/MT,,,17,3d8+0,fire,3.968626967,1.357074079
+Lightning Lure,0,EVOCATION,15-feet radius,N,Y,N,N,N,0,ST,,strength,1,1d8+0,lightning,2.291287847,0.783507085
+Lightning Lure,0,EVOCATION,15-feet radius,N,Y,N,N,N,0,ST,,strength,5,2d8+0,lightning,3.240370349,1.108046346
+Lightning Lure,0,EVOCATION,15-feet radius,N,Y,N,N,N,0,ST,,strength,11,3d8+0,lightning,3.968626967,1.357074079
+Lightning Lure,0,EVOCATION,15-feet radius,N,Y,N,N,N,0,ST,,strength,17,4d8+0,lightning,4.582575695,1.56701417
+Mind Sliver,0,ENCHANTMENT,Point (60 feet),N,Y,N,N,N,0,ST,,intelligence,1,1d6+0,psychic,1.707825128,0.817588381
+Mind Sliver,0,ENCHANTMENT,Point (60 feet),N,Y,N,N,N,0,ST,,intelligence,5,2d6+0,psychic,2.415229458,1.156244577
+Mind Sliver,0,ENCHANTMENT,Point (60 feet),N,Y,N,N,N,0,ST,,intelligence,11,3d6+0,psychic,2.958039892,1.416104616
+Mind Sliver,0,ENCHANTMENT,Point (60 feet),N,Y,N,N,N,0,ST,,intelligence,17,4d6+0,psychic,3.415650255,1.635176762
+Spirit Shroud,3,NECROMANCY,Self,Y,Y,Y,N,N,0,,,,0,1d8+0,extra,2.291287847,0.783507085
+Sword Burst,0,CONJURATION,5-feet radius,N,Y,N,N,N,0,S,,dexterity,1,1d6+0,force,1.707825128,0.817588381
+Sword Burst,0,CONJURATION,5-feet radius,N,Y,N,N,N,0,S,,dexterity,5,2d6+0,force,2.415229458,1.156244577
+Sword Burst,0,CONJURATION,5-feet radius,N,Y,N,N,N,0,S,,dexterity,11,3d6+0,force,2.958039892,1.416104616
+Sword Burst,0,CONJURATION,5-feet radius,N,Y,N,N,N,0,S,,dexterity,17,4d6+0,force,3.415650255,1.635176762
+Tasha's Caustic Brew,1,EVOCATION,30-feet line,Y,Y,Y,Y,N,0,,,dexterity,0,2d4+0,acid,1.58113883,1.261566261
+Tasha's Caustic Brew,1,EVOCATION,30-feet line,Y,Y,Y,Y,N,0,,,dexterity,2,4d4+0,acid,2.236067977,1.784124116
+Tasha's Caustic Brew,1,EVOCATION,30-feet line,Y,Y,Y,Y,N,0,,,dexterity,3,6d4+0,acid,2.738612788,2.185096861
+Tasha's Caustic Brew,1,EVOCATION,30-feet line,Y,Y,Y,Y,N,0,,,dexterity,4,8d4+0,acid,3.16227766,2.523132522
+Tasha's Caustic Brew,1,EVOCATION,30-feet line,Y,Y,Y,Y,N,0,,,dexterity,5,10d4+0,acid,3.535533906,2.820947918
+Tasha's Caustic Brew,1,EVOCATION,30-feet line,Y,Y,Y,Y,N,0,,,dexterity,6,12d4+0,acid,3.872983346,3.090193616
+Tasha's Caustic Brew,1,EVOCATION,30-feet line,Y,Y,Y,Y,N,0,,,dexterity,7,14d4+0,acid,4.183300133,3.337790589
+Tasha's Caustic Brew,1,EVOCATION,30-feet line,Y,Y,Y,Y,N,0,,,dexterity,8,16d4+0,acid,4.472135955,3.568248232
+Tasha's Caustic Brew,1,EVOCATION,30-feet line,Y,Y,Y,Y,N,0,,,dexterity,9,18d4+0,acid,4.74341649,3.784698783
+Tasha's Mind Whip,2,ENCHANTMENT,Point (90 feet),N,Y,N,N,N,0,ST,,intelligence,0,3d6+0,psychic,2.958039892,1.416104616
+Mind Sliver,0,ENCHANTMENT,Point (60 feet),N,Y,N,N,N,0,ST,,intelligence,1,1d6+0,psychic,1.707825128,0.817588381
+Mind Sliver,0,ENCHANTMENT,Point (60 feet),N,Y,N,N,N,0,ST,,intelligence,5,2d6+0,psychic,2.415229458,1.156244577
+Mind Sliver,0,ENCHANTMENT,Point (60 feet),N,Y,N,N,N,0,ST,,intelligence,11,3d6+0,psychic,2.958039892,1.416104616
+Mind Sliver,0,ENCHANTMENT,Point (60 feet),N,Y,N,N,N,0,ST,,intelligence,17,4d6+0,psychic,3.415650255,1.635176762
+Mind Thrust,2,ENCHANTMENT,Point (60 feet),N,Y,N,N,N,0,ST,,intelligence,0,3d6+0,psychic,2.958039892,1.416104616
+Acid Stream,1,EVOCATION,30-feet line,Y,Y,Y,Y,N,0,L,,dexterity,0,3d4+0,acid,1.936491673,1.545096808
+Acid Stream,1,EVOCATION,30-feet line,Y,Y,Y,Y,N,0,L,,dexterity,2,4d4+0,acid,2.236067977,1.784124116
+Acid Stream,1,EVOCATION,30-feet line,Y,Y,Y,Y,N,0,L,,dexterity,3,5d4+0,acid,2.5,1.994711402
+Acid Stream,1,EVOCATION,30-feet line,Y,Y,Y,Y,N,0,L,,dexterity,4,6d4+0,acid,2.738612788,2.185096861
+Acid Stream,1,EVOCATION,30-feet line,Y,Y,Y,Y,N,0,L,,dexterity,5,7d4+0,acid,2.958039892,2.36017436
+Acid Stream,1,EVOCATION,30-feet line,Y,Y,Y,Y,N,0,L,,dexterity,6,8d4+0,acid,3.16227766,2.523132522
+Acid Stream,1,EVOCATION,30-feet line,Y,Y,Y,Y,N,0,L,,dexterity,7,9d4+0,acid,3.354101966,2.676186174
+Acid Stream,1,EVOCATION,30-feet line,Y,Y,Y,Y,N,0,L,,dexterity,8,10d4+0,acid,3.535533906,2.820947918
+Acid Stream,1,EVOCATION,30-feet line,Y,Y,Y,Y,N,0,L,,dexterity,9,11d4+0,acid,3.708099244,2.958635136
+Spirit Shroud,3,NECROMANCY,Self,Y,Y,Y,N,N,0,,,,0,1d8+0,extra,2.291287847,0.783507085
+Spirit Shroud,3,NECROMANCY,Self,Y,Y,Y,N,N,0,,,,4,2d8+0,radiant,3.240370349,1.108046346
+Spirit Shroud,3,NECROMANCY,Self,Y,Y,Y,N,N,0,,,,5,3d8+0,radiant,3.968626967,1.357074079
+Spirit Shroud,3,NECROMANCY,Self,Y,Y,Y,N,N,0,,,,6,4d8+0,radiant,4.582575695,1.56701417
+Spirit Shroud,3,NECROMANCY,Self,Y,Y,Y,N,N,0,,,,7,5d8+0,radiant,5.123475383,1.751975102
+Spirit Shroud,3,NECROMANCY,Self,Y,Y,Y,N,N,0,,,,8,6d8+0,radiant,5.61248608,1.919192568
+Spirit Shroud,3,NECROMANCY,Self,Y,Y,Y,N,N,0,,,,9,7d8+0,radiant,6.062177826,2.072964897
+Draconic Transformation,7,TRANSMUTATION,Self,Y,Y,Y,Y,N,50000,,,dexterity,0,3d8+0,force,3.968626967,1.357074079
+Flame Stride,3,TRANSMUTATION,Self,Y,Y,Y,N,N,0,,,,0,1d6+0,fire,1.707825128,0.817588381
+Icingdeath's Frost,2,EVOCATION,15-feet cone,N,N,Y,Y,N,0,,,constitution,0,3d8+0,cold,3.968626967,1.357074079
+Raulothim's Psychic Lance,4,ENCHANTMENT,Point (120 feet),N,Y,N,N,N,0,,,intelligence,0,10d6+0,psychic,5.400617249,2.585441473
+Arcane Weapon,1,TRANSMUTATION,Self,Y,Y,Y,N,N,0,ST,,,0,1d6+0,damage,1.707825128,0.817588381
+Id Insinuation,1,ENCHANTMENT,Point (60 feet),Y,Y,Y,N,N,0,ST,,wisdom,0,1d12+0,psychic,3.45205253,0.751183477
+Mind Sliver,0,ENCHANTMENT,Point (60 feet),N,Y,N,N,N,0,ST,,intelligence,1,1d6+0,psychic,1.707825128,0.817588381
+Mind Sliver,0,ENCHANTMENT,Point (60 feet),N,Y,N,N,N,0,ST,,intelligence,5,2d6+0,psychic,2.415229458,1.156244577
+Mind Sliver,0,ENCHANTMENT,Point (60 feet),N,Y,N,N,N,0,ST,,intelligence,11,3d6+0,psychic,2.958039892,1.416104616
+Mind Sliver,0,ENCHANTMENT,Point (60 feet),N,Y,N,N,N,0,ST,,intelligence,17,4d6+0,psychic,3.415650255,1.635176762
+Mind Thrust,2,ENCHANTMENT,Point (60 feet),N,Y,Y,N,N,0,ST/MT,,intelligence,0,3d6+0,psychic,2.958039892,1.416104616
+Psionic Blast,3,EVOCATION,30-feet cone,N,Y,N,N,N,0,N,,dexterity,0,5d8+0,force,5.123475383,1.751975102
+Psychic Crush,6,ENCHANTMENT,Point (60 feet),N,Y,Y,N,N,0,ST,,intelligence,0,12d6+0,psychic,5.916079783,2.832209232
+Mind Sliver,0,ENCHANTMENT,Point (60 feet),N,Y,N,N,N,0,ST,,intelligence,1,1d6+0,psychic,1.707825128,0.817588381
+Mind Sliver,0,ENCHANTMENT,Point (60 feet),N,Y,N,N,N,0,ST,,intelligence,5,2d6+0,psychic,2.415229458,1.156244577
+Mind Sliver,0,ENCHANTMENT,Point (60 feet),N,Y,N,N,N,0,ST,,intelligence,11,3d6+0,psychic,2.958039892,1.416104616
+Mind Sliver,0,ENCHANTMENT,Point (60 feet),N,Y,N,N,N,0,ST,,intelligence,17,4d6+0,psychic,3.415650255,1.635176762
+Abi-Dalzim's Horrid Wilting,8,NECROMANCY,Point (150 feet),N,Y,Y,Y,N,0,C,,constitution,0,12d8+0,necrotic,7.937253933,2.714148158
+Aganazzar's Scorcher,2,EVOCATION,Point (30 feet),N,Y,Y,Y,N,0,L,,dexterity,0,3d8+0,fire,3.968626967,1.357074079
+Aganazzar's Scorcher,2,EVOCATION,Point (30 feet),N,Y,Y,Y,N,0,L,,dexterity,3,4d8+0,fire,4.582575695,1.56701417
+Aganazzar's Scorcher,2,EVOCATION,Point (30 feet),N,Y,Y,Y,N,0,L,,dexterity,4,5d8+0,fire,5.123475383,1.751975102
+Aganazzar's Scorcher,2,EVOCATION,Point (30 feet),N,Y,Y,Y,N,0,L,,dexterity,5,6d8+0,fire,5.61248608,1.919192568
+Aganazzar's Scorcher,2,EVOCATION,Point (30 feet),N,Y,Y,Y,N,0,L,,dexterity,6,7d8+0,fire,6.062177826,2.072964897
+Aganazzar's Scorcher,2,EVOCATION,Point (30 feet),N,Y,Y,Y,N,0,L,,dexterity,7,8d8+0,fire,6.480740698,2.216092691
+Aganazzar's Scorcher,2,EVOCATION,Point (30 feet),N,Y,Y,Y,N,0,L,,dexterity,8,9d8+0,fire,6.873863542,2.350521254
+Aganazzar's Scorcher,2,EVOCATION,Point (30 feet),N,Y,Y,Y,N,0,L,,dexterity,9,10d8+0,fire,7.245688373,2.477666951
+Bones of the Earth,6,TRANSMUTATION,Point (120 feet),N,Y,Y,N,N,0,MT,strength/dexterity,dexterity,0,6d6+0,bludgeoning,4.183300133,2.002674353
+Catapult,1,TRANSMUTATION,Point (60 feet),N,N,Y,N,N,0,ST,,dexterity,0,3d8+0,bludgeoning,3.968626967,1.357074079
+Catapult,1,TRANSMUTATION,Point (60 feet),N,N,Y,N,N,0,ST,,dexterity,2,4d8+0,bludgeoning,4.582575695,1.56701417
+Catapult,1,TRANSMUTATION,Point (60 feet),N,N,Y,N,N,0,ST,,dexterity,3,5d8+0,bludgeoning,5.123475383,1.751975102
+Catapult,1,TRANSMUTATION,Point (60 feet),N,N,Y,N,N,0,ST,,dexterity,4,6d8+0,bludgeoning,5.61248608,1.919192568
+Catapult,1,TRANSMUTATION,Point (60 feet),N,N,Y,N,N,0,ST,,dexterity,5,7d8+0,bludgeoning,6.062177826,2.072964897
+Catapult,1,TRANSMUTATION,Point (60 feet),N,N,Y,N,N,0,ST,,dexterity,6,8d8+0,bludgeoning,6.480740698,2.216092691
+Catapult,1,TRANSMUTATION,Point (60 feet),N,N,Y,N,N,0,ST,,dexterity,7,9d8+0,bludgeoning,6.873863542,2.350521254
+Catapult,1,TRANSMUTATION,Point (60 feet),N,N,Y,N,N,0,ST,,dexterity,8,10d8+0,bludgeoning,7.245688373,2.477666951
+Catapult,1,TRANSMUTATION,Point (60 feet),N,N,Y,N,N,0,ST,,dexterity,9,11d8+0,bludgeoning,7.599342077,2.598599021
+Create Bonfire,0,CONJURATION,Point (60 feet),Y,Y,Y,N,N,0,C,,dexterity,1,1d8+0,fire,2.291287847,0.783507085
+Create Bonfire,0,CONJURATION,Point (60 feet),Y,Y,Y,N,N,0,C,,dexterity,5,2d8+0,fire,3.240370349,1.108046346
+Create Bonfire,0,CONJURATION,Point (60 feet),Y,Y,Y,N,N,0,C,,dexterity,11,3d8+0,fire,3.968626967,1.357074079
+Create Bonfire,0,CONJURATION,Point (60 feet),Y,Y,Y,N,N,0,C,,dexterity,17,4d8+0,fire,4.582575695,1.56701417
+Crown of Stars,7,EVOCATION,Self,N,Y,Y,N,N,0,ST,,,0,4d12+0,radiant,6.904105059,1.502366954
+Dawn,5,EVOCATION,Point (60 feet),Y,Y,Y,Y,N,10000,Y,,constitution,0,4d10+0,radiant,5.744562647,1.527832615
+Dragon's Breath,2,TRANSMUTATION,Touch,Y,Y,Y,Y,N,0,ST/N,,dexterity,0,3d6+0,damage,2.958039892,1.416104616
+Dragon's Breath,2,TRANSMUTATION,Touch,Y,Y,Y,Y,N,0,ST/N,,dexterity,3,4d6+0,acid,3.415650255,1.635176762
+Dragon's Breath,2,TRANSMUTATION,Touch,Y,Y,Y,Y,N,0,ST/N,,dexterity,4,5d6+0,acid,3.818813079,1.828183198
+Dragon's Breath,2,TRANSMUTATION,Touch,Y,Y,Y,Y,N,0,ST/N,,dexterity,5,6d6+0,acid,4.183300133,2.002674353
+Dragon's Breath,2,TRANSMUTATION,Touch,Y,Y,Y,Y,N,0,ST/N,,dexterity,6,7d6+0,acid,4.518480571,2.163135531
+Dragon's Breath,2,TRANSMUTATION,Touch,Y,Y,Y,Y,N,0,ST/N,,dexterity,7,8d6+0,acid,4.830458915,2.312489154
+Dragon's Breath,2,TRANSMUTATION,Touch,Y,Y,Y,Y,N,0,ST/N,,dexterity,8,9d6+0,acid,5.123475383,2.452765143
+Dragon's Breath,2,TRANSMUTATION,Touch,Y,Y,Y,Y,N,0,ST/N,,dexterity,9,10d6+0,acid,5.400617249,2.585441473
+Dust Devil,2,CONJURATION,Point (60 feet),Y,Y,Y,Y,N,0,,,strength,0,1d8+0,bludgeoning,2.291287847,0.783507085
+Dust Devil,2,CONJURATION,Point (60 feet),Y,Y,Y,Y,N,0,,,strength,3,2d8+0,bludgeoning,3.240370349,1.108046346
+Dust Devil,2,CONJURATION,Point (60 feet),Y,Y,Y,Y,N,0,,,strength,4,3d8+0,bludgeoning,3.968626967,1.357074079
+Dust Devil,2,CONJURATION,Point (60 feet),Y,Y,Y,Y,N,0,,,strength,5,4d8+0,bludgeoning,4.582575695,1.56701417
+Dust Devil,2,CONJURATION,Point (60 feet),Y,Y,Y,Y,N,0,,,strength,6,5d8+0,bludgeoning,5.123475383,1.751975102
+Dust Devil,2,CONJURATION,Point (60 feet),Y,Y,Y,Y,N,0,,,strength,7,6d8+0,bludgeoning,5.61248608,1.919192568
+Dust Devil,2,CONJURATION,Point (60 feet),Y,Y,Y,Y,N,0,,,strength,8,7d8+0,bludgeoning,6.062177826,2.072964897
+Dust Devil,2,CONJURATION,Point (60 feet),Y,Y,Y,Y,N,0,,,strength,9,8d8+0,bludgeoning,6.480740698,2.216092691
+Earth Tremor,1,EVOCATION,Point (10 feet),N,Y,Y,N,N,0,R,,dexterity,0,1d6+0,bludgeoning,1.707825128,0.817588381
+Earth Tremor,1,EVOCATION,Point (10 feet),N,Y,Y,N,N,0,R,,dexterity,2,2d6+0,bludgeoning,2.415229458,1.156244577
+Earth Tremor,1,EVOCATION,Point (10 feet),N,Y,Y,N,N,0,R,,dexterity,3,3d6+0,bludgeoning,2.958039892,1.416104616
+Earth Tremor,1,EVOCATION,Point (10 feet),N,Y,Y,N,N,0,R,,dexterity,4,4d6+0,bludgeoning,3.415650255,1.635176762
+Earth Tremor,1,EVOCATION,Point (10 feet),N,Y,Y,N,N,0,R,,dexterity,5,5d6+0,bludgeoning,3.818813079,1.828183198
+Earth Tremor,1,EVOCATION,Point (10 feet),N,Y,Y,N,N,0,R,,dexterity,6,6d6+0,bludgeoning,4.183300133,2.002674353
+Earth Tremor,1,EVOCATION,Point (10 feet),N,Y,Y,N,N,0,R,,dexterity,7,7d6+0,bludgeoning,4.518480571,2.163135531
+Earth Tremor,1,EVOCATION,Point (10 feet),N,Y,Y,N,N,0,R,,dexterity,8,8d6+0,bludgeoning,4.830458915,2.312489154
+Earth Tremor,1,EVOCATION,Point (10 feet),N,Y,Y,N,N,0,R,,dexterity,9,9d6+0,bludgeoning,5.123475383,2.452765143
+Elemental Bane,4,TRANSMUTATION,Point (90 feet),Y,Y,Y,N,N,0,ST,,constitution,0,2d6+0,damage,2.415229458,1.156244577
+Enervation,5,NECROMANCY,Point (60 feet),Y,Y,Y,N,N,0,ST,,dexterity,0,2d8+0,necrotic,3.240370349,1.108046346
+Enervation,5,NECROMANCY,Point (60 feet),Y,Y,Y,N,N,0,ST,,dexterity,0,4d8+0,necrotic,4.582575695,1.56701417
+Enervation,5,NECROMANCY,Point (60 feet),Y,Y,Y,N,N,0,ST,,dexterity,0,4d8+0,necrotic,4.582575695,1.56701417
+Erupting Earth,3,TRANSMUTATION,Point (120 feet),N,Y,Y,Y,N,0,C,,dexterity,0,3d12+0,bludgeoning,5.979130372,1.301087948
+Flame Arrows,3,TRANSMUTATION,Touch,Y,Y,Y,N,N,0,,,,0,1d6+0,fire,1.707825128,0.817588381
+Frostbite,0,EVOCATION,Point (60 feet),N,Y,Y,N,N,0,ST,,constitution,1,1d6+0,cold,1.707825128,0.817588381
+Frostbite,0,EVOCATION,Point (60 feet),N,Y,Y,N,N,0,ST,,constitution,5,2d6+0,cold,2.415229458,1.156244577
+Frostbite,0,EVOCATION,Point (60 feet),N,Y,Y,N,N,0,ST,,constitution,11,3d6+0,cold,2.958039892,1.416104616
+Frostbite,0,EVOCATION,Point (60 feet),N,Y,Y,N,N,0,ST,,constitution,17,4d6+0,cold,3.415650255,1.635176762
+Guardian of Nature,4,TRANSMUTATION,Self,Y,Y,N,N,N,0,,,constitution,0,1d6+0,force,1.707825128,0.817588381
+Holy Weapon,5,EVOCATION,Touch,Y,Y,Y,N,N,0,MT,,constitution,0,2d8+0,radiant,3.240370349,1.108046346
+Holy Weapon,5,EVOCATION,Touch,Y,Y,Y,N,N,0,MT,,constitution,0,4d8+0,radiant,4.582575695,1.56701417
+Ice Knife,1,CONJURATION,Point (60 feet),N,N,Y,Y,N,0,ST,,dexterity,0,1d10+0,piercing,2.872281323,0.763916307
+Ice Knife,1,CONJURATION,Point (60 feet),N,N,Y,Y,N,0,ST,,dexterity,0,2d6+0,cold,2.415229458,1.156244577
+Ice Knife,1,CONJURATION,Point (60 feet),N,N,Y,Y,N,0,ST,,dexterity,2,3d6+0,cold,2.958039892,1.416104616
+Ice Knife,1,CONJURATION,Point (60 feet),N,N,Y,Y,N,0,ST,,dexterity,3,4d6+0,cold,3.415650255,1.635176762
+Ice Knife,1,CONJURATION,Point (60 feet),N,N,Y,Y,N,0,ST,,dexterity,4,5d6+0,cold,3.818813079,1.828183198
+Ice Knife,1,CONJURATION,Point (60 feet),N,N,Y,Y,N,0,ST,,dexterity,5,6d6+0,cold,4.183300133,2.002674353
+Ice Knife,1,CONJURATION,Point (60 feet),N,N,Y,Y,N,0,ST,,dexterity,6,7d6+0,cold,4.518480571,2.163135531
+Ice Knife,1,CONJURATION,Point (60 feet),N,N,Y,Y,N,0,ST,,dexterity,7,8d6+0,cold,4.830458915,2.312489154
+Ice Knife,1,CONJURATION,Point (60 feet),N,N,Y,Y,N,0,ST,,dexterity,8,9d6+0,cold,5.123475383,2.452765143
+Ice Knife,1,CONJURATION,Point (60 feet),N,N,Y,Y,N,0,ST,,dexterity,9,10d6+0,cold,5.400617249,2.585441473
+Illusory Dragon,8,ILLUSION,Point (120 feet),Y,N,Y,N,N,0,N,intelligence,wisdom/intelligence,0,7d6+0,damage,4.518480571,2.163135531
+Immolation,5,EVOCATION,Point (90 feet),Y,Y,N,N,N,0,ST,,dexterity,0,8d6+0,fire,4.830458915,2.312489154
+Immolation,5,EVOCATION,Point (90 feet),Y,Y,N,N,N,0,ST,,dexterity,0,4d6+0,fire,3.415650255,1.635176762
+Infestation,0,CONJURATION,Point (30 feet),N,Y,Y,Y,N,0,ST,,constitution,1,1d6+0,poison,1.707825128,0.817588381
+Infestation,0,CONJURATION,Point (30 feet),N,Y,Y,Y,N,0,ST,,constitution,5,2d6+0,poison,2.415229458,1.156244577
+Infestation,0,CONJURATION,Point (30 feet),N,Y,Y,Y,N,0,ST,,constitution,11,3d6+0,poison,2.958039892,1.416104616
+Infestation,0,CONJURATION,Point (30 feet),N,Y,Y,Y,N,0,ST,,constitution,17,4d6+0,poison,3.415650255,1.635176762
+Investiture of Flame,6,TRANSMUTATION,Self,Y,Y,Y,N,N,0,L,,dexterity,0,1d10+0,fire,2.872281323,0.763916307
+Investiture of Flame,6,TRANSMUTATION,Self,Y,Y,Y,N,N,0,L,,dexterity,0,4d8+0,fire,4.582575695,1.56701417
+Investiture of Ice,6,TRANSMUTATION,Self,Y,Y,Y,N,N,0,N/S,,constitution,0,4d6+0,cold,3.415650255,1.635176762
+Investiture of Wind,6,TRANSMUTATION,Self,Y,Y,Y,N,N,0,C,,constitution,0,2d10+0,bludgeoning,4.062019202,1.080340802
+Life Transference,3,NECROMANCY,Point (30 feet),N,Y,Y,N,N,0,ST,,,0,4d8+0,necrotic,4.582575695,1.56701417
+Life Transference,3,NECROMANCY,Point (30 feet),N,Y,Y,N,N,0,ST,,,4,5d8+0,necrotic,5.123475383,1.751975102
+Life Transference,3,NECROMANCY,Point (30 feet),N,Y,Y,N,N,0,ST,,,5,6d8+0,necrotic,5.61248608,1.919192568
+Life Transference,3,NECROMANCY,Point (30 feet),N,Y,Y,N,N,0,ST,,,6,7d8+0,necrotic,6.062177826,2.072964897
+Life Transference,3,NECROMANCY,Point (30 feet),N,Y,Y,N,N,0,ST,,,7,8d8+0,necrotic,6.480740698,2.216092691
+Life Transference,3,NECROMANCY,Point (30 feet),N,Y,Y,N,N,0,ST,,,8,9d8+0,necrotic,6.873863542,2.350521254
+Life Transference,3,NECROMANCY,Point (30 feet),N,Y,Y,N,N,0,ST,,,9,10d8+0,necrotic,7.245688373,2.477666951
+Maddening Darkness,8,EVOCATION,Point (150 feet),Y,Y,N,Y,N,0,S,,wisdom,0,8d8+0,psychic,6.480740698,2.216092691
+Maelstrom,5,EVOCATION,Point (120 feet),Y,Y,Y,Y,N,0,R,,strength,0,6d6+0,bludgeoning,4.183300133,2.002674353
+Magic Stone,0,TRANSMUTATION,Touch,N,Y,Y,N,N,0,ST,,,1,1d6+0,bludgeoning,1.707825128,0.817588381
+Magic Stone,0,TRANSMUTATION,Touch,N,Y,Y,N,N,0,ST,,,2,2d6+0,bludgeoning,2.415229458,1.156244577
+Magic Stone,0,TRANSMUTATION,Touch,N,Y,Y,N,N,0,ST,,,3,3d6+0,bludgeoning,2.958039892,1.416104616
+Maximilian's Earthen Grasp,2,TRANSMUTATION,Point (30 feet),Y,Y,Y,Y,N,0,ST,strength,strength,0,2d6+0,bludgeoning,2.415229458,1.156244577
+Maximilian's Earthen Grasp,2,TRANSMUTATION,Point (30 feet),Y,Y,Y,Y,N,0,ST,strength,strength,0,2d6+0,bludgeoning,2.415229458,1.156244577
+Melf's Minute Meteors,3,EVOCATION,Self,Y,Y,Y,Y,N,0,S,,dexterity,0,2d6+0,fire,2.415229458,1.156244577
+Mental Prison,6,ILLUSION,Point (60 feet),Y,N,Y,N,N,0,ST,,intelligence,0,5d10+0,psychic,6.422616289,1.708168792
+Mental Prison,6,ILLUSION,Point (60 feet),Y,N,Y,N,N,0,ST,,intelligence,0,5d10+0,psychic,6.422616289,1.708168792
+Mental Prison,6,ILLUSION,Point (60 feet),Y,N,Y,N,N,0,ST,,intelligence,0,10d10+0,psychic,9.082951062,2.415715473
+Mind Spike,2,DIVINATION,Point (60 feet),Y,N,Y,N,N,0,ST,,wisdom,0,3d8+0,psychic,3.968626967,1.357074079
+Mind Spike,2,DIVINATION,Point (60 feet),Y,N,Y,N,N,0,ST,,wisdom,3,4d8+0,psychic,4.582575695,1.56701417
+Mind Spike,2,DIVINATION,Point (60 feet),Y,N,Y,N,N,0,ST,,wisdom,4,5d8+0,psychic,5.123475383,1.751975102
+Mind Spike,2,DIVINATION,Point (60 feet),Y,N,Y,N,N,0,ST,,wisdom,5,6d8+0,psychic,5.61248608,1.919192568
+Mind Spike,2,DIVINATION,Point (60 feet),Y,N,Y,N,N,0,ST,,wisdom,6,7d8+0,psychic,6.062177826,2.072964897
+Mind Spike,2,DIVINATION,Point (60 feet),Y,N,Y,N,N,0,ST,,wisdom,7,8d8+0,psychic,6.480740698,2.216092691
+Mind Spike,2,DIVINATION,Point (60 feet),Y,N,Y,N,N,0,ST,,wisdom,8,9d8+0,psychic,6.873863542,2.350521254
+Mind Spike,2,DIVINATION,Point (60 feet),Y,N,Y,N,N,0,ST,,wisdom,9,10d8+0,psychic,7.245688373,2.477666951
+Negative Energy Flood,5,NECROMANCY,Point (60 feet),N,Y,N,Y,N,0,ST,,constitution,0,5d12+0,necrotic,7.719024118,1.679697319
+Primal Savagery,0,TRANSMUTATION,Self,N,N,Y,N,N,0,ST,,,1,1d10+0,acid,2.872281323,0.763916307
+Primal Savagery,0,TRANSMUTATION,Self,N,N,Y,N,N,0,ST,,,5,2d10+0,acid,4.062019202,1.080340802
+Primal Savagery,0,TRANSMUTATION,Self,N,N,Y,N,N,0,ST,,,11,3d10+0,acid,4.974937186,1.323141857
+Primal Savagery,0,TRANSMUTATION,Self,N,N,Y,N,N,0,ST,,,17,4d10+0,acid,5.744562647,1.527832615
+Psychic Scream,9,ENCHANTMENT,Point (90 feet),N,N,Y,N,N,0,MT,,intelligence,0,14d6+0,psychic,6.390096504,3.059135606
+Shadow Blade,2,ILLUSION,Self,Y,Y,Y,N,N,0,,,,0,2d8+0,psychic,3.240370349,1.108046346
+Shadow of Moil,4,NECROMANCY,Self,Y,Y,Y,Y,N,15000,S,,,0,2d8+0,necrotic,3.240370349,1.108046346
+Sickening Radiance,4,EVOCATION,Point (120 feet),Y,Y,Y,N,N,0,S,,constitution,0,4d10+0,radiant,5.744562647,1.527832615
+Snilloc's Snowball Swarm,2,EVOCATION,Point (90 feet),N,Y,Y,Y,N,0,S,,dexterity,0,3d6+0,cold,2.958039892,1.416104616
+Snilloc's Snowball Swarm,2,EVOCATION,Point (90 feet),N,Y,Y,Y,N,0,S,,dexterity,3,4d6+0,cold,3.415650255,1.635176762
+Snilloc's Snowball Swarm,2,EVOCATION,Point (90 feet),N,Y,Y,Y,N,0,S,,dexterity,4,5d6+0,cold,3.818813079,1.828183198
+Snilloc's Snowball Swarm,2,EVOCATION,Point (90 feet),N,Y,Y,Y,N,0,S,,dexterity,5,6d6+0,cold,4.183300133,2.002674353
+Snilloc's Snowball Swarm,2,EVOCATION,Point (90 feet),N,Y,Y,Y,N,0,S,,dexterity,6,7d6+0,cold,4.518480571,2.163135531
+Snilloc's Snowball Swarm,2,EVOCATION,Point (90 feet),N,Y,Y,Y,N,0,S,,dexterity,7,8d6+0,cold,4.830458915,2.312489154
+Snilloc's Snowball Swarm,2,EVOCATION,Point (90 feet),N,Y,Y,Y,N,0,S,,dexterity,8,9d6+0,cold,5.123475383,2.452765143
+Snilloc's Snowball Swarm,2,EVOCATION,Point (90 feet),N,Y,Y,Y,N,0,S,,dexterity,9,10d6+0,cold,5.400617249,2.585441473
+Steel Wind Strike,5,CONJURATION,Point (30 feet),N,N,Y,Y,N,10,MT,,,0,6d10+0,force,7.03562364,1.871205159
+Storm Sphere,4,EVOCATION,Point (150 feet),Y,Y,Y,N,N,0,ST/S,,strength,0,2d6+0,bludgeoning,2.415229458,1.156244577
+Storm Sphere,4,EVOCATION,Point (150 feet),Y,Y,Y,N,N,0,ST/S,,strength,0,4d6+0,lightning,3.415650255,1.635176762
+Synaptic Static,5,ENCHANTMENT,Point (120 feet),N,Y,Y,N,N,0,S,,intelligence/constitution,0,8d6+0,psychic,4.830458915,2.312489154
+Tenser's Transformation,6,TRANSMUTATION,Self,Y,Y,Y,Y,N,0,,,constitution,0,2d12+0,force,4.881939505,1.062333861
+Thunder Step,3,CONJURATION,Point (90 feet),N,Y,N,N,N,0,S,,constitution,0,3d10+0,thunder,4.974937186,1.323141857
+Thunderclap,0,EVOCATION,Point (5 feet),N,N,Y,N,N,0,S,,constitution,1,1d6+0,thunder,1.707825128,0.817588381
+Thunderclap,0,EVOCATION,Point (5 feet),N,N,Y,N,N,0,S,,constitution,5,2d6+0,thunder,2.415229458,1.156244577
+Thunderclap,0,EVOCATION,Point (5 feet),N,N,Y,N,N,0,S,,constitution,11,3d6+0,thunder,2.958039892,1.416104616
+Thunderclap,0,EVOCATION,Point (5 feet),N,N,Y,N,N,0,S,,constitution,17,4d6+0,thunder,3.415650255,1.635176762
+Tidal Wave,3,CONJURATION,Point (120 feet),N,Y,Y,Y,N,0,W,,dexterity,0,4d8+0,bludgeoning,4.582575695,1.56701417
+Toll the Dead,0,NECROMANCY,Point (60 feet),N,Y,Y,N,N,0,ST,,wisdom,1,1d12+0,necrotic,3.45205253,0.751183477
+Toll the Dead,0,NECROMANCY,Point (60 feet),N,Y,Y,N,N,0,ST,,wisdom,5,2d12+0,necrotic,4.881939505,1.062333861
+Toll the Dead,0,NECROMANCY,Point (60 feet),N,Y,Y,N,N,0,ST,,wisdom,11,3d12+0,necrotic,5.979130372,1.301087948
+Toll the Dead,0,NECROMANCY,Point (60 feet),N,Y,Y,N,N,0,ST,,wisdom,17,4d12+0,necrotic,6.904105059,1.502366954
+Transmute Rock,5,TRANSMUTATION,Point (120 feet),N,Y,Y,Y,N,0,C,strength,strength/dexterity,0,4d8+0,bludgeoning,4.582575695,1.56701417
+Vitriolic Sphere,4,EVOCATION,Point (150 feet),N,Y,Y,Y,N,0,S,,dexterity,0,10d4+0,acid,3.535533906,2.820947918
+Vitriolic Sphere,4,EVOCATION,Point (150 feet),N,Y,Y,Y,N,0,S,,dexterity,0,5d4+0,acid,2.5,1.994711402
+Vitriolic Sphere,4,EVOCATION,Point (150 feet),N,Y,Y,Y,N,0,S,,dexterity,5,12d4+0,acid,3.872983346,3.090193616
+Vitriolic Sphere,4,EVOCATION,Point (150 feet),N,Y,Y,Y,N,0,S,,dexterity,6,14d4+0,acid,4.183300133,3.337790589
+Vitriolic Sphere,4,EVOCATION,Point (150 feet),N,Y,Y,Y,N,0,S,,dexterity,7,16d4+0,acid,4.472135955,3.568248232
+Vitriolic Sphere,4,EVOCATION,Point (150 feet),N,Y,Y,Y,N,0,S,,dexterity,8,18d4+0,acid,4.74341649,3.784698783
+Vitriolic Sphere,4,EVOCATION,Point (150 feet),N,Y,Y,Y,N,0,S,,dexterity,9,20d4+0,acid,5,3.989422804
+Wall of Light,5,EVOCATION,Point (120 feet),Y,Y,Y,Y,N,0,ST/W,,constitution,0,4d8+0,radiant,4.582575695,1.56701417
+Wall of Light,5,EVOCATION,Point (120 feet),Y,Y,Y,Y,N,0,ST/W,,constitution,0,4d8+0,radiant,4.582575695,1.56701417
+Wall of Light,5,EVOCATION,Point (120 feet),Y,Y,Y,Y,N,0,ST/W,,constitution,0,4d8+0,radiant,4.582575695,1.56701417
+Wall of Light,5,EVOCATION,Point (120 feet),Y,Y,Y,Y,N,0,ST/W,,constitution,6,5d8+0,radiant,5.123475383,1.751975102
+Wall of Light,5,EVOCATION,Point (120 feet),Y,Y,Y,Y,N,0,ST/W,,constitution,7,6d8+0,radiant,5.61248608,1.919192568
+Wall of Light,5,EVOCATION,Point (120 feet),Y,Y,Y,Y,N,0,ST/W,,constitution,8,7d8+0,radiant,6.062177826,2.072964897
+Wall of Light,5,EVOCATION,Point (120 feet),Y,Y,Y,Y,N,0,ST/W,,constitution,9,8d8+0,radiant,6.480740698,2.216092691
+Whirlwind,7,EVOCATION,Point (300 feet),Y,Y,N,Y,N,0,Y,strength/dexterity,dexterity/strength,0,10d6+0,bludgeoning,5.400617249,2.585441473
+Word of Radiance,0,EVOCATION,Point (5 feet),N,Y,N,Y,N,0,MT,,constitution,1,1d6+0,radiant,1.707825128,0.817588381
+Word of Radiance,0,EVOCATION,Point (5 feet),N,Y,N,Y,N,0,MT,,constitution,5,2d6+0,radiant,2.415229458,1.156244577
+Word of Radiance,0,EVOCATION,Point (5 feet),N,Y,N,Y,N,0,MT,,constitution,11,3d6+0,radiant,2.958039892,1.416104616
+Word of Radiance,0,EVOCATION,Point (5 feet),N,Y,N,Y,N,0,MT,,constitution,17,4d6+0,radiant,3.415650255,1.635176762
+Wrath of Nature,5,EVOCATION,Point (120 feet),Y,Y,Y,N,N,0,ST/C,strength,dexterity/strength,0,4d6+0,slashing,3.415650255,1.635176762
+Wrath of Nature,5,EVOCATION,Point (120 feet),Y,Y,Y,N,N,0,ST/C,strength,dexterity/strength,0,3d8+0,nonmagical,3.968626967,1.357074079
+Zephyr Strike,1,TRANSMUTATION,Self,Y,Y,N,N,N,0,,,,0,1d8+0,force,2.291287847,0.783507085
